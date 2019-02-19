@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="app_name" translatable="false">Cookfu</string>
+
+    <color name="colorAccent">#f95424</color>
+    <color name="colorPrimary">#6ac932</color>
+    <color name="colorPrimaryDark">#55A128</color>
+
+    <string name="directions_api_key" translatable="false"></string>
+    <string name="geo_api_key" translatable="false"></string>
+    <string name="is_demo" translatable="false">false</string>
+
+</resources>

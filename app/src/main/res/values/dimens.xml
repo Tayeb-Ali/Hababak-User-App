@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="splashLogoMarginTop">104dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp32">32dp</dimen>
+    <dimen name="dp4">4dp</dimen>
+    <dimen name="card_corner_radius">2dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="dp12">12dp</dimen>
+    <dimen name="rest_height">180dp</dimen>
+</resources>

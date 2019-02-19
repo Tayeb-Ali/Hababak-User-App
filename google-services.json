@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "312511440670",
+    "firebase_url": "https://hb-food-delivery-ad0ed.firebaseio.com",
+    "project_id": "hb-food-delivery-ad0ed",
+    "storage_bucket": "hb-food-delivery-ad0ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312511440670:android:1c9ca72a4ec18a93",
+        "android_client_info": {
+          "package_name": "com.hb_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312511440670-nnib7ps5jcfnl6rc8s8kf1vrd2dtm7li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hb_food",
+            "certificate_hash": "33fb6eef8e76c1dae882f51634ee081d4fe1a783"
+          }
+        },
+        {
+          "client_id": "312511440670-96u6i1o33avk3i8rhjojirptcj4heacp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hb_food",
+            "certificate_hash": "784ef705e8ce280b1b856a65845afabe6df4c380"
+          }
+        },
+        {
+          "client_id": "312511440670-fdc1rlhaidsa6bc8dqsb92d6o5clercm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51dFL2xsUVpu7XqbUUrBWXmp57wdHjg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312511440670-fdc1rlhaidsa6bc8dqsb92d6o5clercm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312511440670:android:858d745b640b48da",
+        "android_client_info": {
+          "package_name": "com.hb_food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312511440670-nc1ncl5qhfsmh9klce5k9noccnut30tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hb_food_delivery",
+            "certificate_hash": "33fb6eef8e76c1dae882f51634ee081d4fe1a783"
+          }
+        },
+        {
+          "client_id": "312511440670-a3skpr1o7d5phko2sl2ko96ue5mdjvaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hb_food_delivery",
+            "certificate_hash": "bb7344524f5dc541caccbd887ad15e251dcae9bd"
+          }
+        },
+        {
+          "client_id": "312511440670-fdc1rlhaidsa6bc8dqsb92d6o5clercm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51dFL2xsUVpu7XqbUUrBWXmp57wdHjg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312511440670-fdc1rlhaidsa6bc8dqsb92d6o5clercm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312511440670:android:f774d8a2a1e22a93",
+        "android_client_info": {
+          "package_name": "com.hb_food_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312511440670-q6juv198n3lpuc8hm0o7lsahd78fbuaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hb_food_store",
+            "certificate_hash": "33fb6eef8e76c1dae882f51634ee081d4fe1a783"
+          }
+        },
+        {
+          "client_id": "312511440670-3juvsj5bboe7vd2tllsj045nrim096jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hb_food_store",
+            "certificate_hash": "8fb18e92dce8ba950873d64dc8e278dec11f559f"
+          }
+        },
+        {
+          "client_id": "312511440670-fdc1rlhaidsa6bc8dqsb92d6o5clercm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51dFL2xsUVpu7XqbUUrBWXmp57wdHjg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312511440670-fdc1rlhaidsa6bc8dqsb92d6o5clercm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

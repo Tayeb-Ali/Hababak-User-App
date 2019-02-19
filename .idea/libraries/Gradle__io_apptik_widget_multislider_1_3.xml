@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.apptik.widget:multislider-1.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/multislider-1.3.aar/315aaf0522bed8d1618f6e3ee8b201b8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/multislider-1.3.aar/315aaf0522bed8d1618f6e3ee8b201b8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

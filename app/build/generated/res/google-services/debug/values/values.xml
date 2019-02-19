@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">312511440670-fdc1rlhaidsa6bc8dqsb92d6o5clercm.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://hb-food-delivery-ad0ed.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">312511440670</string>
+    <string name="google_api_key" translatable="false">AIzaSyC51dFL2xsUVpu7XqbUUrBWXmp57wdHjg4</string>
+    <string name="google_app_id" translatable="false">1:312511440670:android:e72223ddcf733c52</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC51dFL2xsUVpu7XqbUUrBWXmp57wdHjg4</string>
+    <string name="google_storage_bucket" translatable="false">hb-food-delivery-ad0ed.appspot.com</string>
+    <string name="project_id" translatable="false">hb-food-delivery-ad0ed</string>
+</resources>

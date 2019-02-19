@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/emptyView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="64dp"
+    android:visibility="gone">
+
+    <ImageView
+        android:id="@+id/emptyViewImage"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:layout_marginBottom="@dimen/dp8" />
+
+    <TextView
+        android:id="@+id/emptyViewText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="No items found at the moment" />
+
+    <TextView
+        android:id="@+id/emptyViewTextSwipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:text="( Swipe down to retry. )"
+        android:textColor="@color/colorAccent" />
+
+</LinearLayout>
