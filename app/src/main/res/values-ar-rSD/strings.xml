@@ -40,7 +40,56 @@
     <string name="nav_support"> الدعم </string>
     <string name="nav_rate"> قيمنا </string>
     <string name="nav_loout"> خروج </string>
-
+    <string name="title">Title</string>
+    <string name="address">العنوان</string>
+    <string name="add_address">إضافة عنوان</string>
+    <string name="have_coupon_code">لديك كود الخصم ؟</string>
+    <string name="sub_total">المجموع</string>
+    <string name="service_fee">رسوم الخدمة (4%)</string>
+    <string name="delivery_charges">رسوم التوصيل</string>
+    <string name="have_promocode">احصل على الرمز الترويجي ؟</string>
+    <string name="checkout_now">اتمام الشراء</string>
+    <string name="shipping">توصيل</string>
+    <string name="payment">الدفع</string>
+    <string name="confirm">تاكيد</string>
+    <string name="proceed_to_payment">الشروع في دفع</string>
+    <string name="special_instruction">تعليمات خاصة</string>
+    <string name="add_to_order">اضافة للطلب</string>
+    <string name="order_placed">تم الطلب</string>
+    <string name="review_order">مراجعة الطلب</string>
+    <string name="continue_ordering">مواصلة الطلب</string>
+    <string name="veg">الخضار</string>
+    <string name="non_veg">بدون خضار</string>
+    <string name="both">كلاهما</string>
+    <string name="type_of_food">نوع الطعام</string>
+    <string name="price_sort_by">فرز السعر</string>
+    <string name="low_to_high">من أسفل إلى أعلى</string>
+    <string name="high_to_low">من أعلى إلى أسفل</string>
+    <string name="price_range">نطاق السعر</string>
+    <string name="min">اقل</string>
+    <string name="max">أقصى</string>
+    <string name="apply_filter">تطبيق مرشح</string>
+    <string name="apply">تطبيق</string>
+    <string name="your_payment_method">طريقة الدفع الخاصة بك</string>
+    <string name="cash_on_delivery">الدفع عن الاستلام</string>
+    <string name="personal_details">تفاصيل شخصية</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="email">Email</string>
+    <string name="your_saved_addresses">عناوينك المحفوظة</string>
+    <string name="add_new_address">إضافة عنوان جديد</string>
+    <string name="area">نطاق</string>
+    <string name="status">الحالة</string>
+    <string name="delivery_time">موعد التسليم</string>
+    <string name="min_order">الحد الادني للطلب</string>
+    <string name="delivery_fee">رسوم التوصيل</string>
+    <string name="pre_order">طلب مسبق</string>
+    <string name="payment_method">طريقة الدفع</string>
+    <string name="password">كلمة السر</string>
+    <string name="new_user">مستخدم جديد ؟</string>
+    <string name="sign_up_now">أفتح حساب الأن</string>
+    <string name="forgot_password">نسية كلمة السر ؟</string>
+    <string name="avg_delivery">توصيل</string>
+    <string name="add_via_map">اضافة بواسطة الخريظة</string>
 
 
 

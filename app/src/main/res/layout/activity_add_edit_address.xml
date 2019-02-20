@@ -27,7 +27,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/dp16"
                 android:fontFamily="@font/roboto"
-                android:hint="Title"
+                android:hint="@string/title"
                 android:maxLines="1"
                 android:singleLine="true"
                 android:textSize="16sp" />
@@ -39,7 +39,7 @@
                 android:layout_marginBottom="@dimen/dp16"
                 android:fontFamily="@font/roboto"
                 android:gravity="start"
-                android:hint="Address"
+                android:hint="@string/address"
                 android:textSize="16sp" />
 
             <TextView
@@ -54,7 +54,7 @@
                 android:paddingTop="@dimen/dp4"
                 android:paddingRight="@dimen/dp16"
                 android:paddingBottom="@dimen/dp4"
-                android:text="Add via Map"
+                android:text="@string/add_via_map"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="16sp"
                 android:textStyle="bold" />
@@ -79,7 +79,7 @@
         android:background="@drawable/round_primary"
         android:gravity="center"
         android:padding="12dp"
-        android:text="Add address"
+        android:text="@string/add_address"
         android:textColor="@android:color/white"
         android:textStyle="bold" />
 

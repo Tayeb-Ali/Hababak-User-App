@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Feb 20 00:02:52 EAT 2019
+#Wed Feb 20 14:55:03 EAT 2019
 17.baseType=DIRECTORY
 4.path=opensans_italic.ttf
 8.set=DEX

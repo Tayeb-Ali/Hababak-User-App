@@ -24,7 +24,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_weight="1"
-                android:text="Personal details"
+                android:text="@string/personal_details"
                 android:textColor="@color/colorDarkText4"
                 android:textSize="16sp"
                 android:textStyle="bold" />
@@ -61,7 +61,7 @@
                         android:layout_height="wrap_content"
                         android:clickable="false"
                         android:focusable="false"
-                        android:hint="Full name"
+                        android:hint="@string/full_name"
                         android:inputType="none" />
 
                 </android.support.design.widget.TextInputLayout>
@@ -79,7 +79,7 @@
                         android:layout_height="wrap_content"
                         android:clickable="false"
                         android:focusable="false"
-                        android:hint="Email"
+                        android:hint="@string/email_address"
                         android:inputType="none" />
 
                 </android.support.design.widget.TextInputLayout>
@@ -97,7 +97,7 @@
                         android:layout_height="wrap_content"
                         android:clickable="false"
                         android:focusable="false"
-                        android:hint="Phone number"
+                        android:hint="@string/phone_number"
                         android:inputType="none" />
 
                 </android.support.design.widget.TextInputLayout>
@@ -115,7 +115,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/dp8"
-            android:text="Your saved addresses"
+            android:text="@string/your_saved_addresses"
             android:textColor="@color/colorDarkText4"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -150,7 +150,7 @@
             android:drawableLeft="@drawable/ic_add_circle_outline_accent_24dp"
             android:drawablePadding="@dimen/dp4"
             android:padding="@dimen/dp4"
-            android:text="Add new address"
+            android:text="@string/add_new_address"
             android:textColor="@color/colorAccent"
             android:textSize="16sp" />
     </LinearLayout>

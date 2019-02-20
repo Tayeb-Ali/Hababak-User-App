@@ -57,7 +57,7 @@
             android:layout_marginLeft="24dp"
             android:layout_marginRight="24dp"
             android:background="@drawable/round_accent"
-            android:text="Apply"
+            android:text="@string/apply"
             android:textAllCaps="false"
             android:textColor="@android:color/white"
             android:textSize="16sp" />

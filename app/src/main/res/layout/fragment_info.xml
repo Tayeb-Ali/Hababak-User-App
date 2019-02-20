@@ -50,7 +50,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.4"
-                android:text="Area"
+                android:text="@string/area"
                 android:textSize="16sp" />
 
             <TextView
@@ -78,7 +78,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.4"
-                android:text="Status"
+                android:text="@string/status"
                 android:textSize="16sp" />
 
             <TextView
@@ -105,7 +105,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.4"
-                android:text="Delivery time"
+                android:text="@string/delivery_time"
                 android:textSize="16sp" />
 
             <TextView
@@ -133,7 +133,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.4"
-                android:text="Min order"
+                android:text="@string/min_order"
                 android:textSize="16sp" />
 
             <TextView
@@ -161,7 +161,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.4"
-                android:text="Delivery fee"
+                android:text="@string/delivery_fee"
                 android:textSize="16sp" />
 
             <TextView
@@ -189,7 +189,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.4"
-                android:text="Pre order"
+                android:text="@string/pre_order"
                 android:textSize="16sp" />
 
             <TextView
@@ -217,7 +217,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.4"
-                android:text="Payment method"
+                android:text="@string/payment_method"
                 android:textSize="16sp" />
 
             <LinearLayout

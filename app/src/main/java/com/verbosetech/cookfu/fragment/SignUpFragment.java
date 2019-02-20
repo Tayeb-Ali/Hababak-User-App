@@ -131,34 +131,33 @@ public class SignUpFragment extends BaseFragment {
 
     private ArrayList<Country> getCountries() {
         ArrayList<Country> toReturn = new ArrayList<>();
-//        toReturn.add(new Country("RU", "Russia", "+7"));
-//        toReturn.add(new Country("TJ", "Tajikistan", "+992"));
-//        toReturn.add(new Country("US", "United States", "+1"));
-//        return toReturn;
-
-        try {
-            JSONArray countrArray = new JSONArray(readEncodedJsonString(getContext()));
-            toReturn = new ArrayList<>();
-            for (int i = 0; i < countrArray.length(); i++) {
-                JSONObject jsonObject = countrArray.getJSONObject(i);
-                String countryName = jsonObject.getString("name");
-                String countryDialCode = jsonObject.getString("dial_code");
-                String countryCode = jsonObject.getString("code");
-                Country country = new Country(countryCode, countryName, countryDialCode);
-                toReturn.add(country);
-            }
-            Collections.sort(toReturn, new Comparator<Country>() {
-                @Override
-                public int compare(Country lhs, Country rhs) {
-                    return lhs.getName().compareTo(rhs.getName());
-                }
-            });
-        } catch (JSONException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        toReturn.add(new Country("SD", "Russia", "+249"));
+        toReturn.add(new Country("KSA", "saudi Arabia", "+966"));
         return toReturn;
+
+//        try {
+//            JSONArray countrArray = new JSONArray(readEncodedJsonString(getContext()));
+//            toReturn = new ArrayList<>();
+//            for (int i = 0; i < countrArray.length(); i++) {
+//                JSONObject jsonObject = countrArray.getJSONObject(i);
+//                String countryName = jsonObject.getString("name");
+//                String countryDialCode = jsonObject.getString("dial_code");
+//                String countryCode = jsonObject.getString("code");
+//                Country country = new Country(countryCode, countryName, countryDialCode);
+//                toReturn.add(country);
+//            }
+//            Collections.sort(toReturn, new Comparator<Country>() {
+//                @Override
+//                public int compare(Country lhs, Country rhs) {
+//                    return lhs.getName().compareTo(rhs.getName());
+//                }
+//            });
+//        } catch (JSONException e) {
+//            e.printStackTrace();
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//        return toReturn;
     }
 
     private String readEncodedJsonString(Context context) throws java.io.IOException {

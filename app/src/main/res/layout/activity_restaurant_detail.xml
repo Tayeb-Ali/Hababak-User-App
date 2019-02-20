@@ -115,7 +115,7 @@
                     android:ellipsize="end"
                     android:gravity="center"
                     android:maxLines="1"
-                    android:text="Avg. delivery"
+                    android:text="@string/avg_delivery"
                     android:textColor="@color/colorDarkText1"
                     android:textSize="12sp" />
 
@@ -143,7 +143,7 @@
                     android:ellipsize="end"
                     android:gravity="center"
                     android:maxLines="1"
-                    android:text="Min order "
+                    android:text="@string/min_order"
                     android:textColor="@color/colorDarkText1"
                     android:textSize="12sp" />
 
@@ -171,7 +171,7 @@
                     android:ellipsize="end"
                     android:gravity="center"
                     android:maxLines="1"
-                    android:text="Delivery fee"
+                    android:text="@string/delivery_fee"
                     android:textColor="@color/colorDarkText1"
                     android:textSize="12sp" />
 

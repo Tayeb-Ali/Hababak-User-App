@@ -39,7 +39,7 @@
             android:background="@color/colorLightText2"
             android:gravity="center"
             android:padding="@dimen/dp8"
-            android:text="Have Coupon Code?"
+            android:text="@string/have_coupon_code"
             android:textColor="@color/colorPrimaryDark"
             android:textStyle="bold" />
 
@@ -67,7 +67,7 @@
                         android:layout_weight="0.7"
                         android:fontFamily="sans-serif"
                         android:lineSpacingExtra="-10sp"
-                        android:text="Sub Total"
+                        android:text="@string/sub_total"
                         android:textColor="#4b4b4b"
                         android:textSize="16sp"
                         android:textStyle="bold" />
@@ -133,7 +133,7 @@
                         android:layout_weight="0.7"
                         android:fontFamily="sans-serif"
                         android:lineSpacingExtra="-8.3sp"
-                        android:text="Service fee (4%)"
+                        android:text="@string/service_fee"
                         android:textColor="#4b4b4b"
                         android:textSize="15sp"
                         android:textStyle="normal" />
@@ -164,7 +164,7 @@
                         android:layout_weight="0.7"
                         android:fontFamily="sans-serif"
                         android:lineSpacingExtra="-8.3sp"
-                        android:text="Delivery charges"
+                        android:text="@string/delivery_charges"
                         android:textColor="#4b4b4b"
                         android:textSize="15sp"
                         android:textStyle="normal" />
@@ -188,7 +188,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:padding="@dimen/dp4"
-                    android:text="Have promocode?"
+                    android:text="@string/have_promocode"
                     android:textColor="@color/colorAccent"
                     android:visibility="gone" />
             </LinearLayout>
@@ -236,7 +236,7 @@
                 android:layout_gravity="center"
                 android:layout_marginLeft="@dimen/dp16"
                 android:layout_marginRight="@dimen/dp16"
-                android:text="Checkout now"
+                android:text="@string/checkout_now"
                 android:textColor="@android:color/white"
                 android:textSize="16sp" />
 

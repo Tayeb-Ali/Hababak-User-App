@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/dp16"
             android:fontFamily="@font/roboto"
-            android:hint="Email address"
+            android:hint="@string/email_address"
             android:inputType="textEmailAddress"
             android:textSize="16sp" />
 
@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/dp8"
             android:fontFamily="@font/roboto"
-            android:hint="Password"
+            android:hint="@string/password"
             android:inputType="textPassword"
             android:textSize="16sp" />
 
@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/dp32"
             android:gravity="end"
-            android:text="Forgot password?"
+            android:text="@string/forgot_password"
             android:textColor="@color/colorAccent" />
 
         <TextView
@@ -60,7 +60,7 @@
             android:background="@drawable/round_accent_light"
             android:gravity="center"
             android:padding="12dp"
-            android:text="Sign in"
+            android:text="@string/sign_in_now"
             android:textColor="@android:color/white"
             android:textStyle="bold" />
 
@@ -74,14 +74,14 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="New to Cookfu? " />
+                android:text="@string/new_user" />
 
             <TextView
                 android:id="@+id/switchSignUp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="@dimen/dp4"
-                android:text="Sign up now"
+                android:text="@string/sign_up_now"
                 android:textColor="@color/colorAccent" />
 
             <TextView

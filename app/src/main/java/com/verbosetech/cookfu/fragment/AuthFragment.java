@@ -92,8 +92,8 @@ public class AuthFragment extends Fragment {
         viewPager = view.findViewById(R.id.viewPager);
 
         ViewPagerAdapter adapter = new ViewPagerAdapter(getChildFragmentManager());
-        adapter.addFragment(SignInFragment.newInstance(innerInteractor), "Sign in");
-        adapter.addFragment(SignUpFragment.newInstance(innerInteractor), "Register");
+        adapter.addFragment(SignInFragment.newInstance(innerInteractor), getString(R.string.sign_in_now));
+        adapter.addFragment(SignUpFragment.newInstance(innerInteractor), getString(R.string.sign_up_now));
 
         viewPager.setAdapter(adapter);
         tabLayout.setupWithViewPager(viewPager);

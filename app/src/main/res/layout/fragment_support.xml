@@ -61,7 +61,7 @@
                         android:drawableLeft="@drawable/ic_email_white_24dp"
                         android:drawablePadding="@dimen/dp8"
                         android:drawableStart="@drawable/ic_email_white_24dp"
-                        android:text="Email"
+                        android:text="@string/email_address"
                         android:textColor="@color/grayLight" />
 
                     <TextView
@@ -88,7 +88,7 @@
                         android:layout_height="wrap_content"
                         android:drawableLeft="@drawable/ic_phone_white_24dp"
                         android:drawablePadding="@dimen/dp8"
-                        android:text="Phone"
+                        android:text="@string/phone_number"
                         android:textColor="@color/grayLight" />
 
                     <TextView
@@ -121,7 +121,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="@dimen/dp8"
-                        android:hint="Name"
+                        android:hint="@string/name"
                         android:inputType="textPersonName"
                         android:maxLines="1"
                         android:singleLine="true" />
@@ -131,7 +131,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="@dimen/dp8"
-                        android:hint="Email"
+                        android:hint="@string/email_address"
                         android:inputType="textEmailAddress"
                         android:maxLines="1"
                         android:singleLine="true" />

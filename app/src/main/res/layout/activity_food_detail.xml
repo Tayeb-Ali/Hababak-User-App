@@ -108,7 +108,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/dp8"
-                android:text="Special instruction"
+                android:text="@string/special_instruction"
                 android:textColor="@color/colorAccent"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -178,7 +178,7 @@
             android:layout_marginRight="@dimen/dp8"
             android:layout_weight="1"
             android:background="@drawable/round_accent"
-            android:text="Add to order"
+            android:text="@string/add_to_order"
             android:textAllCaps="false"
             android:textColor="@android:color/white"
             android:textSize="16sp" />

@@ -26,7 +26,7 @@
             android:drawableBottom="@drawable/ic_local_mall_accent_24dp"
             android:drawablePadding="@dimen/dp4"
             android:gravity="center"
-            android:text="Shipping"
+            android:text="@string/shipping"
             android:textColor="@color/colorAccent"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -39,7 +39,7 @@
             android:drawableBottom="@drawable/ic_credit_card_gray_24dp"
             android:drawablePadding="@dimen/dp4"
             android:gravity="center"
-            android:text="Payment"
+            android:text="@string/payment"
             android:textColor="@android:color/darker_gray"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -52,7 +52,7 @@
             android:drawableBottom="@drawable/ic_assignment_turned_in_gray_24dp"
             android:drawablePadding="@dimen/dp4"
             android:gravity="center"
-            android:text="Confirm"
+            android:text="@string/confirm"
             android:textColor="@android:color/darker_gray"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -94,7 +94,7 @@
                 android:drawablePadding="@dimen/dp4"
                 android:drawableRight="@drawable/ic_keyboard_arrow_right_white_24dp"
                 android:gravity="center"
-                android:text="Proceed to payment"
+                android:text="@string/proceed_to_payment"
                 android:textColor="@android:color/white"
                 android:textSize="18sp" />
         </FrameLayout>
