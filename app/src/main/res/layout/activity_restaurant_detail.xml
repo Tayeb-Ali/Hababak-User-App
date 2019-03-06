@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.verbosetech.cookfu.rest_detail.RestaurantDetailActivity">
+    tools:context="com.hababk.userapp.rest_detail.RestaurantDetailActivity">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appBarLayout"

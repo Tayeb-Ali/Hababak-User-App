@@ -3,7 +3,7 @@
     <string name="add_address">إضافة عنوان</string>
     <string name="add_new_address">إضافة عنوان جديد</string>
     <string name="add_to_order">اضافة للطلب</string>
-    <string name="add_via_map">Add via Map</string>
+    <string name="add_via_map">اضافة بواسطة الخريظة</string>
     <string name="address">العنوان</string>
     <string name="already_registered">لديك حساب بالفعل ؟</string>
     <string name="apply">تطبيق</string>
@@ -15,6 +15,7 @@
     <string name="cart_title">سلتك</string>
     <string name="cash_on_delivery">الدفع عن الاستلام</string>
     <string name="checkout_now">اتمام الشراء</string>
+    <string name="choose_location">يرجى اختيار الموقع أولا</string>
     <string name="close">اغلاق</string>
     <string name="cod_message">Be ready with enough cash when our delivery guy visits your place</string>
     <string name="confirm">تاكيد</string>
@@ -37,9 +38,9 @@
     <string name="hint_home_search">ابحث عن مطعم</string>
     <string name="label_cart">السلة</string>
     <string name="label_order_detail">تتبع الطلب</string>
-    <string name="label_placed">Order Placed</string>
+    <string name="label_placed">تم الطلب</string>
     <string name="label_rate">عرض و تقيم</string>
-    <string name="label_refine">Refine</string>
+    <string name="label_refine">صقل</string>
     <string name="loading">…</string>
     <string name="low_to_high">من أسفل إلى أعلى</string>
     <string name="max">أقصى</string>
@@ -57,6 +58,10 @@
     <string name="nav_support"> الدعم </string>
     <string name="new_password">كلمة سر جديدة</string>
     <string name="new_user">مستخدم جديد ؟</string>
+    <string name="no">لا</string>
+    <string name="no_address">لم يتم حفظ عنوان</string>
+    <string name="no_item">لا توجد عناصر في الوقت الحالي</string>
+    <string name="no_restaurants_locaction">لا توجد مطاعم بالقرب منك. قريبًا…</string>
     <string name="non_veg">بدون خضار</string>
     <string name="open">فتح</string>
     <string name="order_placed">تم الطلب</string>
@@ -70,7 +75,7 @@
     <string name="price_range">نطاق السعر</string>
     <string name="price_sort_by">فرز السعر</string>
     <string name="proceed_to_payment">الشروع في دفع</string>
-    <string name="refine_reset_title">Reset</string>
+    <string name="refine_reset_title">تهئية</string>
     <string name="register_now">سجل الان</string>
     <string name="review_order">مراجعة الطلب</string>
     <string name="sample_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</string>
@@ -84,11 +89,12 @@
     <string name="splash_message">حبابك \n نصلك لحدي \n <b>بابك</b></string>
     <string name="status">الحالة</string>
     <string name="sub_total">المجموع</string>
-    <string name="title">Title</string>
+    <string name="title">العنوان</string>
     <string name="title_verification">يرجى كتابة كود التحقق.
 على الرغم من أن التحقق التلقائي قيد التقدم.</string>
     <string name="type_of_food">نوع الطعام</string>
     <string name="veg">الخضار</string>
+    <string name="yes">نعم</string>
     <string name="your_payment_method">طريقة الدفع الخاصة بك</string>
     <string name="your_saved_addresses">عناوينك المحفوظة</string>
 </resources>

@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:scrollbars="none"
-    tools:context="com.verbosetech.cookfu.fragment.SignInFragment">
+    tools:context="com.hababk.userapp.fragment.SignInFragment">
 
     <LinearLayout
         android:layout_width="match_parent"

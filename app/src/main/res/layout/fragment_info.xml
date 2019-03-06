@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:fillViewport="true"
     android:scrollbars="none"
-    tools:context="com.verbosetech.cookfu.rest_detail.InfoFragment">
+    tools:context="com.hababk.userapp.rest_detail.InfoFragment">
 
     <LinearLayout
         android:layout_width="match_parent"

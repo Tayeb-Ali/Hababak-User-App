@@ -7,4 +7,4 @@
     android:background="@color/colorBackground"
     android:paddingBottom="56dp"
     android:paddingTop="@dimen/dp8"
-    tools:context="com.verbosetech.cookfu.rest_detail.CuisineFragment" />
+    tools:context="com.hababk.userapp.rest_detail.CuisineFragment" />

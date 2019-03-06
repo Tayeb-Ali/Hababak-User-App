@@ -1,4 +1,4 @@
-com.verbosetech.cookfu
+com.hababk.userapp
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1560,6 +1560,7 @@ string cart_title
 string cash_on_delivery
 string character_counter_pattern
 string checkout_now
+string choose_location
 string close
 string cod_message
 string common_google_play_services_enable_button
@@ -1631,6 +1632,10 @@ string nav_reviews
 string nav_support
 string new_password
 string new_user
+string no
+string no_address
+string no_item
+string no_restaurants_locaction
 string non_veg
 string open
 string order_placed
@@ -1672,6 +1677,7 @@ string title
 string title_verification
 string type_of_food
 string veg
+string yes
 string your_payment_method
 string your_saved_addresses
 style AlertDialog_AppCompat

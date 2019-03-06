@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.verbosetech.cookfu"
+    package="com.hababk.userapp"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -24,7 +24,7 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <application
-        android:name="com.verbosetech.cookfu.ChefApp"
+        android:name="com.hababk.userapp.ChefApp"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
@@ -40,7 +40,7 @@
             android:resource="@array/preloaded_fonts" />
 
         <activity
-            android:name="com.verbosetech.cookfu.activity.SplashActivity"
+            android:name="com.hababk.userapp.activity.SplashActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeFullScreen"
             android:windowSoftInputMode="stateHidden|adjustResize" >
@@ -52,58 +52,58 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.verbosetech.cookfu.activity.MainActivity"
+            android:name="com.hababk.userapp.activity.MainActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize" />
         <activity
-            android:name="com.verbosetech.cookfu.activity.CartActivity"
+            android:name="com.hababk.userapp.activity.CartActivity"
             android:label="@string/label_cart"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.verbosetech.cookfu.activity.RefineActivity"
+            android:name="com.hababk.userapp.activity.RefineActivity"
             android:label="@string/label_refine"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.verbosetech.cookfu.activity.OrderDetailActivity"
+            android:name="com.hababk.userapp.activity.OrderDetailActivity"
             android:label="@string/label_order_detail"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.verbosetech.cookfu.rest_detail.RestaurantDetailActivity"
+            android:name="com.hababk.userapp.rest_detail.RestaurantDetailActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.verbosetech.cookfu.activity.FoodDetailActivity"
+            android:name="com.hababk.userapp.activity.FoodDetailActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.verbosetech.cookfu.checkout.CheckoutActivity"
+            android:name="com.hababk.userapp.checkout.CheckoutActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.verbosetech.cookfu.activity.AddEditAddressActivity"
+            android:name="com.hababk.userapp.activity.AddEditAddressActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize" />
         <activity
-            android:name="com.verbosetech.cookfu.activity.PostReviewActivity"
+            android:name="com.hababk.userapp.activity.PostReviewActivity"
             android:label="@string/label_rate"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize" />
 
-        <service android:name="com.verbosetech.cookfu.service.MyFirebaseMessagingService" >
+        <service android:name="com.hababk.userapp.service.MyFirebaseMessagingService" >
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
         </service>
-        <service android:name="com.verbosetech.cookfu.service.MyFirebaseInstanceIDService" >
+        <service android:name="com.hababk.userapp.service.MyFirebaseInstanceIDService" >
             <intent-filter>
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>
         </service>
 
         <activity
-            android:name="com.verbosetech.cookfu.checkout.OrderPlacedActivity"
+            android:name="com.hababk.userapp.checkout.OrderPlacedActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeFullScreen" />
         <activity
-            android:name="com.verbosetech.cookfu.activity.BuyPromtActivity"
+            android:name="com.hababk.userapp.activity.BuyPromtActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeFullScreen" />
         <activity
@@ -191,7 +191,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.verbosetech.cookfu.firebaseinitprovider"
+            android:authorities="com.hababk.userapp.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -201,7 +201,7 @@
 
         <provider
             android:name="com.kbeanie.multipicker.utils.AMPFileProvider"
-            android:authorities="com.verbosetech.cookfu.multipicker.fileprovider"
+            android:authorities="com.hababk.userapp.multipicker.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -210,7 +210,7 @@
         </provider>
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.verbosetech.cookfu.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.hababk.userapp.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.verbosetech.cookfu.rest_detail.ReviewFragment">
+    tools:context="com.hababk.userapp.rest_detail.ReviewFragment">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerReviews"

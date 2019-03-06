@@ -90,5 +90,18 @@
     <string name="sign_up_now">Sign up now</string>
     <string name="forgot_password">Forgot password?</string>
     <string name="avg_delivery">Avg. delivery</string>
+    <string name="yes">Yes</string>
+    <string name="no_item">No items found at the moment</string>
+    <string name="no">No</string>
+    <string name="no_restaurants_locaction">No restaurants to show in selected location.</string>
+    <string name="choose_location">Kindly choose a location first</string>
+    <string name="no_address">No address saved</string>
+    <string name="logout">Logout</string>
+    <string name="logout_ask">Are you sure you want to logout?</string>
+    <string name="send_mail">Send mail</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="no_items_found_at_the_moment">No items found at the moment</string>
+    <string name="swipe_down_to_retry">( Swipe down to retry. )</string>
+    <!--<string name="no">No</string>-->
 
 </resources>

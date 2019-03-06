@@ -4,7 +4,7 @@
     android:id="@+id/authFrame"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.verbosetech.cookfu.fragment.AuthFragment">
+    tools:context="com.hababk.userapp.fragment.AuthFragment">
 
     <LinearLayout
         android:layout_width="match_parent"

@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:clickable="true"
     android:fillViewport="true"
-    tools:context="com.verbosetech.cookfu.checkout.CheckoutPaymentModeFragment">
+    tools:context="com.hababk.userapp.checkout.CheckoutPaymentModeFragment">
 
     <android.support.v7.widget.CardView
         style="@style/CardViewStyle"

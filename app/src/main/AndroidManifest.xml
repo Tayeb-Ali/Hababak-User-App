@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.verbosetech.cookfu">
+    package="com.hababk.userapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
-        android:name=".ChefApp"
+        android:name="com.hababk.userapp.ChefApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -21,7 +21,7 @@
             android:resource="@array/preloaded_fonts" />
 
         <activity
-            android:name=".activity.SplashActivity"
+            android:name="com.hababk.userapp.activity.SplashActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeFullScreen"
             android:windowSoftInputMode="stateHidden|adjustResize">
@@ -33,59 +33,59 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.MainActivity"
+            android:name="com.hababk.userapp.activity.MainActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize" />
         <activity
-            android:name=".activity.CartActivity"
+            android:name="com.hababk.userapp.activity.CartActivity"
             android:label="@string/label_cart"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.RefineActivity"
+            android:name="com.hababk.userapp.activity.RefineActivity"
             android:label="@string/label_refine"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.OrderDetailActivity"
+            android:name="com.hababk.userapp.activity.OrderDetailActivity"
             android:label="@string/label_order_detail"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".rest_detail.RestaurantDetailActivity"
+            android:name="com.hababk.userapp.rest_detail.RestaurantDetailActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.FoodDetailActivity"
+            android:name="com.hababk.userapp.activity.FoodDetailActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".checkout.CheckoutActivity"
+            android:name="com.hababk.userapp.checkout.CheckoutActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.AddEditAddressActivity"
+            android:name="com.hababk.userapp.activity.AddEditAddressActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize" />
         <activity
-            android:name=".activity.PostReviewActivity"
+            android:name="com.hababk.userapp.activity.PostReviewActivity"
             android:label="@string/label_rate"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize" />
 
-        <service android:name=".service.MyFirebaseMessagingService">
+        <service android:name="com.hababk.userapp.service.MyFirebaseMessagingService">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
         </service>
-        <service android:name=".service.MyFirebaseInstanceIDService">
+        <service android:name="com.hababk.userapp.service.MyFirebaseInstanceIDService">
             <intent-filter>
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>
         </service>
 
         <activity
-            android:name=".checkout.OrderPlacedActivity"
+            android:name="com.hababk.userapp.checkout.OrderPlacedActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeFullScreen" />
 
         <activity
-            android:name=".activity.BuyPromtActivity"
+            android:name="com.hababk.userapp.activity.BuyPromtActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeFullScreen" />
 
