@@ -102,6 +102,10 @@
     <string name="back_to_login">Back to login</string>
     <string name="no_items_found_at_the_moment">No items found at the moment</string>
     <string name="swipe_down_to_retry">( Swipe down to retry. )</string>
-    <!--<string name="no">No</string>-->
+    <string name="name_app">Hababak</string>
+    <string name="location_services">Location Services Needed</string>
+    <string name="enable_gps">Enable GPS for higher accuracy</string>
+    <string name="ok">OK</string>
+    <string name="use_location">This app needs the Location permission, please accept to use location functionality</string>
 
 </resources>

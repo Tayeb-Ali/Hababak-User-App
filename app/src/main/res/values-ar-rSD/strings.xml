@@ -74,7 +74,7 @@
     <string name="cash_on_delivery">الدفع عن الاستلام</string>
     <string name="personal_details">تفاصيل شخصية</string>
     <string name="full_name">الاسم الكامل</string>
-    <string name="email">Email</string>
+    <string name="email">البريد الالكتروني</string>
     <string name="your_saved_addresses">عناوينك المحفوظة</string>
     <string name="add_new_address">إضافة عنوان جديد</string>
     <string name="area">نطاق</string>
@@ -102,6 +102,11 @@
     <string name="back_to_login">العودة لتسجيل الدخول</string>
     <string name="no_items_found_at_the_moment">لا توجد عناصر في هذا الوفت</string>
     <string name="swipe_down_to_retry">( اسحب للاسفل للمحاولة مرة اخرى. )</string>
+    <string name="name_app">حبابك</string>
+    <string name="location_services">Location Services Needed</string>
+    <string name="enable_gps">Enable GPS for higher accuracy</string>
+    <string name="ok">OK</string>
+    <string name="use_location">This app needs the Location permission, please accept to use location functionality</string>
 
 
 </resources>

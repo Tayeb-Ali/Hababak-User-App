@@ -10,7 +10,7 @@
         android:name="com.hababk.userapp.ChefApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@string/name_app"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <meta-data
@@ -89,6 +89,9 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeFullScreen" />
 
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="562cb3f90b4dbd7f6c4d6eaf9bc29a1e1630877c" />
     </application>
 
 </manifest>

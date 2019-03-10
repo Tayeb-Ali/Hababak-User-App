@@ -1,0 +1,111 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur/values-ur.xml",
+            "map": [
+                {
+                    "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f9277ff14152e3a47826f8c1d542746d/res/values-ur/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,351,547,671,780,979,1104,1242,1371,1582,1690,1893,2019,2224,2419,2508,2601",
+                        "endColumns": "105,195,123,108,198,124,137,128,210,107,202,125,204,194,88,92,112",
+                        "endOffsets": "350,546,670,779,978,1103,1241,1370,1581,1689,1892,2018,2223,2418,2507,2600,2713"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1878,1988,2184,2312,2425,2624,2753,2895,3239,3450,3562,3765,3895,4100,4299,4392,4489",
+                        "endColumns": "109,195,127,112,198,128,141,132,210,111,202,129,204,198,92,96,116",
+                        "endOffsets": "1983,2179,2307,2420,2619,2748,2890,3023,3445,3557,3760,3890,4095,4294,4387,4484,4601"
+                    }
+                },
+                {
+                    "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b4ae52112bc8cefbd24fbda2fa1f032/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "4990",
+                        "endColumns": "102",
+                        "endOffsets": "5088"
+                    }
+                },
+                {
+                    "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/play-services-places-16.0.0.aar/df281a1ee3a16ccf072b3d07a45352a0/res/values-ur/values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "193,293",
+                        "endColumns": "99,89",
+                        "endOffsets": "292,382"
+                    },
+                    "to": {
+                        "startLines": "38,39",
+                        "startColumns": "4,4",
+                        "startOffsets": "4712,4816",
+                        "endColumns": "103,93",
+                        "endOffsets": "4811,4905"
+                    }
+                },
+                {
+                    "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b6ee63208f8c68e08a89657c40564218/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,321,430,516,620,740,816,892,977,1085,1194,1296,1407,1507,1615,1780,1878",
+                        "endColumns": "109,105,108,85,103,119,75,75,84,107,108,101,110,99,107,164,97,79",
+                        "endOffsets": "210,316,425,511,615,735,811,887,972,1080,1189,1291,1402,1502,1610,1775,1873,1953"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,321,430,516,620,740,816,892,977,1085,1194,1296,1407,1507,1615,1780,4910",
+                        "endColumns": "109,105,108,85,103,119,75,75,84,107,108,101,110,99,107,164,97,79",
+                        "endOffsets": "210,316,425,511,615,735,811,887,972,1080,1189,1291,1402,1502,1610,1775,1873,4985"
+                    }
+                },
+                {
+                    "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/91255cd19175dfb1024106f36f141e16/res/values-ur/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "101",
+                        "endOffsets": "306"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4606",
+                        "endColumns": "105",
+                        "endOffsets": "4707"
+                    }
+                },
+                {
+                    "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/e559750c35ae0c1fe5bf5fe47c0b5fe7/res/values-ur/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "210",
+                        "endOffsets": "457"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "3028",
+                        "endColumns": "210",
+                        "endOffsets": "3234"
+                    }
+                }
+            ]
+        }
+    ]
+}

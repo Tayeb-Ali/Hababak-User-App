@@ -27,6 +27,7 @@ import com.google.android.gms.location.LocationResult;
 import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.location.places.Place;
 import com.google.android.gms.location.places.ui.PlacePicker;
+import com.hababk.userapp.R;
 
 import java.io.IOException;
 import java.util.List;
@@ -62,8 +63,8 @@ public abstract class BaseLocationActivity extends AppCompatActivity {
                 new AlertDialog.Builder(this)
                         .setTitle("Location Permission Needed")
                         .setCancelable(false)
-                        .setMessage("This app needs the Location permission, please accept to use location functionality")
-                        .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                        .setMessage(R.string.use_location)
+                        .setPositiveButton(getString(R.string.ok), new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialogInterface, int i) {
                                 ActivityCompat.requestPermissions(BaseLocationActivity.this,
@@ -82,10 +83,10 @@ public abstract class BaseLocationActivity extends AppCompatActivity {
                 startedLocationFetching();
             } else {
                 new AlertDialog.Builder(this)
-                        .setTitle("Location Services Needed")
-                        .setMessage("Enable GPS for higher accuracy")
+                        .setTitle(getString(R.string.location_services))
+                        .setMessage(getString(R.string.enable_gps))
                         .setCancelable(false)
-                        .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                        .setPositiveButton(getString(R.string.ok), new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialogInterface, int i) {
                                 startActivity(new Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS));

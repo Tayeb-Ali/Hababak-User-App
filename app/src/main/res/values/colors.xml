@@ -11,6 +11,11 @@
     <color name="colorDarkText3">#424242</color>
     <color name="colorDarkText4">#212121</color>
 
+
+    <color name="one">#6ac932</color>
+    <color name="two">#55A128</color>
+    <color name="three">#f95424</color>
+
     <color name="colorLightText2">#EEEEEE</color>
 
 </resources>

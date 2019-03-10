@@ -1,8 +1,19 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
 apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
 
 repositories {
     mavenCentral()
     google()
+    maven { url 'https://maven.fabric.io/public' }
 }
 
 android {
@@ -17,14 +28,18 @@ android {
     compileSdkVersion 27
     defaultConfig {
         applicationId "com.hababk.userapp"
-        resValue 'string', "app_name", "Hababk"
+//        resValue 'string', "app_name", "Hababk"
 //        resValue 'string', "google_maps_key", "AIzaSyBRiRmkvWdoVBqyPdyfm_o5Crw6WOffTFE"
-        resValue 'string', "directions_api_key", "AIzaSyB2mjZ3VCVfKJ6tQkFg9Kz-aIuj_F124bM"
-        resValue 'string', "geo_api_key", "AIzaSyB2mjZ3VCVfKJ6tQkFg9Kz-aIuj_F124bM"
+        resValue 'string', "directions_api_key", "AIzaSyCF1uEKiepQneXRAzfD5IJ-QaElfdqaIEI"
+        resValue 'string', "geo_api_key", "AIzaSyCF1uEKiepQneXRAzfD5IJ-QaElfdqaIEI"
         resValue 'string', "is_demo", "false"
-        resValue 'color', "colorPrimary", "#6ac932"
-        resValue 'color', "colorPrimaryDark", "#55A128"
-        resValue 'color', "colorAccent", "#f95424"
+        resValue 'color', "colorPrimary", "#03A9F4"
+        resValue 'color', "colorPrimaryDark", "#2196F3"
+        resValue 'color', "colorAccent", "#4CAF50"
+
+//        resValue 'color', "colorPrimary", "#6ac932"
+//        resValue 'color', "colorPrimaryDark", "#55A128"
+//        resValue 'color', "colorAccent", "#f95424"
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
@@ -63,6 +78,7 @@ dependencies {
     implementation 'com.kbeanie:multipicker:1.5@aar'
     implementation 'com.github.bumptech.glide:glide:4.7.1'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.7.1'
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.9.9'
 }
 
 
