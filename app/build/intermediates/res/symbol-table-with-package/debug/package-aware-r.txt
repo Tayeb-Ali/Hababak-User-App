@@ -902,6 +902,7 @@ drawable ic_keyboard_arrow_down_accent_24dp
 drawable ic_keyboard_arrow_left_white_24dp
 drawable ic_keyboard_arrow_right_white_24dp
 drawable ic_keyboard_arrow_up_accent_24dp
+drawable ic_launcher_background
 drawable ic_local_activity_white_24dp
 drawable ic_local_mall_accent_24dp
 drawable ic_local_mall_gray_24dp
@@ -1515,6 +1516,8 @@ menu menu_home
 menu menu_refine
 menu menu_rest_detail
 mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1599,6 +1602,7 @@ string directions_api_key
 string email
 string email_address
 string email_error
+string enable_gps
 string fcm_fallback_notification_channel_label
 string firebase_database_url
 string forgot_password
@@ -1621,6 +1625,7 @@ string label_placed
 string label_rate
 string label_refine
 string loading
+string location_services
 string logout
 string logout_ask
 string low_to_high
@@ -1628,6 +1633,7 @@ string max
 string min
 string min_order
 string name
+string name_app
 string name_error
 string nav_details
 string nav_favo
@@ -1645,6 +1651,7 @@ string no_item
 string no_items_found_at_the_moment
 string no_restaurants_locaction
 string non_veg
+string ok
 string open
 string order_placed
 string password
@@ -1686,6 +1693,7 @@ string swipe_down_to_retry
 string title
 string title_verification
 string type_of_food
+string use_location
 string veg
 string yes
 string your_payment_method
