@@ -99,11 +99,11 @@ public class SignUpFragment extends BaseFragment {
                     return;
                 }
                 if (password1.getText().toString().length() < 6) {
-                    toast("Provide at least 6 character password", true);
+                    toast(getString(R.string.valid_password_char), true);
                     return;
                 }
                 if (TextUtils.isEmpty(password1.getText()) || TextUtils.isEmpty(password2.getText()) || !password1.getText().toString().equals(password2.getText().toString())) {
-                    toast("Please enter valid password, Twice.", true);
+                    toast(getString(R.string.valid_password), true);
                     return;
                 }
                 setProgressRegister(true);
@@ -129,8 +129,8 @@ public class SignUpFragment extends BaseFragment {
 
     private ArrayList<Country> getCountries() {
         ArrayList<Country> toReturn = new ArrayList<>();
-        toReturn.add(new Country("SD", "Sudan", "+249"));
-        toReturn.add(new Country("KSA", "saudi Arabia", "+966"));
+        toReturn.add(new Country("SD", getString(R.string.sudan), "+249"));
+        toReturn.add(new Country("BA", getString(R.string.blaad_alhramen), "+966"));
         return toReturn;
 
 //        try {

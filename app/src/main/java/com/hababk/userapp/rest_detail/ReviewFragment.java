@@ -99,7 +99,7 @@ public class ReviewFragment extends BaseRecyclerFragment {
         pageNo = 1;
         loadReviews();
         swipeRefresh.setRefreshing(true);
-        emptyViewText.setText("No reviews found");
+        emptyViewText.setText(R.string.no_reviews);
         Glide.with(getContext()).load(R.drawable.placeholder_review).into(emptyViewImage);
     }
 

@@ -64,7 +64,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/dp16"
-                    android:text="Order details"
+                    android:text="@string/order_details"
                     android:textColor="@color/colorAccent"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -95,7 +95,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="0.8"
                         android:gravity="end"
-                        android:text="Subtotal: " />
+                        android:text="@string/subtotal" />
 
                     <TextView
                         android:id="@+id/subTotal"
@@ -145,7 +145,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="0.8"
                         android:gravity="end"
-                        android:text="Service charge: " />
+                        android:text="@string/service_charge" />
 
                     <TextView
                         android:id="@+id/feeService"
@@ -169,7 +169,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="0.8"
                         android:gravity="end"
-                        android:text="Delivery charge: " />
+                        android:text="@string/delivery_charge" />
 
                     <TextView
                         android:id="@+id/feeDelivery"
@@ -196,7 +196,7 @@
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Payable amount"
+                        android:text="@string/payable_amount"
                         android:textColor="@color/colorAccent"
                         android:textSize="16sp"
                         android:textStyle="bold" />

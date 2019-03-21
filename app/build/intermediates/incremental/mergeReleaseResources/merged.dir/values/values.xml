@@ -857,6 +857,7 @@
     <string name="area">Area</string>
     <string name="avg_delivery">Avg. delivery</string>
     <string name="back_to_login">Back to login</string>
+    <string name="blaad_alhramen">Blaad Alhramen</string>
     <string name="both">Both</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="cart_clear">Clear cart</string>
@@ -867,7 +868,7 @@
     <string name="choose_location">Kindly choose a location first</string>
     <string name="close">Close</string>
     <string name="cod_message">Be ready with enough cash when our delivery guy visits your place</string>
-    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">843d75ca-060b-4c4c-9b01-b27afc32d4d3</string>
+    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">a5535f04-bd9a-46fc-9566-58d765cb700a</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -887,11 +888,14 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="confirm">Confirm</string>
+    <string name="confirm_order">Confirm Order</string>
     <string name="confirm_password"> Confirm Password </string>
+    <string name="confirm_pay"><![CDATA[Confirm & Pay]]></string>
     <string name="continue_ordering">Continue Ordering</string>
     <string name="countries_code">W3sibmFtZSI6IkFmZ2hhbmlzdGFuIiwiZGlhbF9jb2RlIjoiKzkzIiwiY29kZSI6IkFGIn0seyJuYW1lIjoiQWxiYW5pYSIsImRpYWxfY29kZSI6IiszNTUiLCJjb2RlIjoiQUwifSx7Im5hbWUiOiJBbGdlcmlhIiwiZGlhbF9jb2RlIjoiKzIxMyIsImNvZGUiOiJEWiJ9LHsibmFtZSI6IkFtZXJpY2FuU2Ftb2EiLCJkaWFsX2NvZGUiOiIrMSA2ODQiLCJjb2RlIjoiQVMifSx7Im5hbWUiOiJBbmRvcnJhIiwiZGlhbF9jb2RlIjoiKzM3NiIsImNvZGUiOiJBRCJ9LHsibmFtZSI6IkFuZ29sYSIsImRpYWxfY29kZSI6IisyNDQiLCJjb2RlIjoiQU8ifSx7Im5hbWUiOiJBbmd1aWxsYSIsImRpYWxfY29kZSI6IisxIDI2NCIsImNvZGUiOiJBSSJ9LHsibmFtZSI6IkFudGFyY3RpY2EiLCJkaWFsX2NvZGUiOiIrNjcyIiwiY29kZSI6IkFRIn0seyJuYW1lIjoiQW50aWd1YSBhbmQgQmFyYnVkYSIsImRpYWxfY29kZSI6IisxMjY4IiwiY29kZSI6IkFHIn0seyJuYW1lIjoiQXJnZW50aW5hIiwiZGlhbF9jb2RlIjoiKzU0IiwiY29kZSI6IkFSIn0seyJuYW1lIjoiQXJtZW5pYSIsImRpYWxfY29kZSI6IiszNzQiLCJjb2RlIjoiQU0ifSx7Im5hbWUiOiJBcnViYSIsImRpYWxfY29kZSI6IisyOTciLCJjb2RlIjoiQVcifSx7Im5hbWUiOiJBdXN0cmFsaWEiLCJkaWFsX2NvZGUiOiIrNjEiLCJjb2RlIjoiQVUifSx7Im5hbWUiOiJBdXN0cmlhIiwiZGlhbF9jb2RlIjoiKzQzIiwiY29kZSI6IkFUIn0seyJuYW1lIjoiQXplcmJhaWphbiIsImRpYWxfY29kZSI6Iis5OTQiLCJjb2RlIjoiQVoifSx7Im5hbWUiOiJCYWhhbWFzIiwiZGlhbF9jb2RlIjoiKzEgMjQyIiwiY29kZSI6IkJTIn0seyJuYW1lIjoiQmFocmFpbiIsImRpYWxfY29kZSI6Iis5NzMiLCJjb2RlIjoiQkgifSx7Im5hbWUiOiJCYW5nbGFkZXNoIiwiZGlhbF9jb2RlIjoiKzg4MCIsImNvZGUiOiJCRCJ9LHsibmFtZSI6IkJhcmJhZG9zIiwiZGlhbF9jb2RlIjoiKzEgMjQ2IiwiY29kZSI6IkJCIn0seyJuYW1lIjoiQmVsYXJ1cyIsImRpYWxfY29kZSI6IiszNzUiLCJjb2RlIjoiQlkifSx7Im5hbWUiOiJCZWxnaXVtIiwiZGlhbF9jb2RlIjoiKzMyIiwiY29kZSI6IkJFIn0seyJuYW1lIjoiQmVsaXplIiwiZGlhbF9jb2RlIjoiKzUwMSIsImNvZGUiOiJCWiJ9LHsibmFtZSI6IkJlbmluIiwiZGlhbF9jb2RlIjoiKzIyOSIsImNvZGUiOiJCSiJ9LHsibmFtZSI6IkJlcm11ZGEiLCJkaWFsX2NvZGUiOiIrMSA0NDEiLCJjb2RlIjoiQk0ifSx7Im5hbWUiOiJCaHV0YW4iLCJkaWFsX2NvZGUiOiIrOTc1IiwiY29kZSI6IkJUIn0seyJuYW1lIjoiQm9saXZpYSwgUGx1cmluYXRpb25hbCBTdGF0ZSBvZiIsImRpYWxfY29kZSI6Iis1OTEiLCJjb2RlIjoiQk8ifSx7Im5hbWUiOiJCb3NuaWEgYW5kIEhlcnplZ292aW5hIiwiZGlhbF9jb2RlIjoiKzM4NyIsImNvZGUiOiJCQSJ9LHsibmFtZSI6IkJvdHN3YW5hIiwiZGlhbF9jb2RlIjoiKzI2NyIsImNvZGUiOiJCVyJ9LHsibmFtZSI6IkJyYXppbCIsImRpYWxfY29kZSI6Iis1NSIsImNvZGUiOiJCUiJ9LHsibmFtZSI6IkJyaXRpc2ggSW5kaWFuIE9jZWFuIFRlcnJpdG9yeSIsImRpYWxfY29kZSI6IisyNDYiLCJjb2RlIjoiSU8ifSx7Im5hbWUiOiJCcnVuZWkgRGFydXNzYWxhbSIsImRpYWxfY29kZSI6Iis2NzMiLCJjb2RlIjoiQk4ifSx7Im5hbWUiOiJCdWxnYXJpYSIsImRpYWxfY29kZSI6IiszNTkiLCJjb2RlIjoiQkcifSx7Im5hbWUiOiJCdXJraW5hIEZhc28iLCJkaWFsX2NvZGUiOiIrMjI2IiwiY29kZSI6IkJGIn0seyJuYW1lIjoiQnVydW5kaSIsImRpYWxfY29kZSI6IisyNTciLCJjb2RlIjoiQkkifSx7Im5hbWUiOiJDYW1ib2RpYSIsImRpYWxfY29kZSI6Iis4NTUiLCJjb2RlIjoiS0gifSx7Im5hbWUiOiJDYW1lcm9vbiIsImRpYWxfY29kZSI6IisyMzciLCJjb2RlIjoiQ00ifSx7Im5hbWUiOiJDYW5hZGEiLCJkaWFsX2NvZGUiOiIrMSIsImNvZGUiOiJDQSJ9LHsibmFtZSI6IkNhcGUgVmVyZGUiLCJkaWFsX2NvZGUiOiIrMjM4IiwiY29kZSI6IkNWIn0seyJuYW1lIjoiQ2F5bWFuIElzbGFuZHMiLCJkaWFsX2NvZGUiOiIrIDM0NSIsImNvZGUiOiJLWSJ9LHsibmFtZSI6IkNlbnRyYWwgQWZyaWNhbiBSZXB1YmxpYyIsImRpYWxfY29kZSI6IisyMzYiLCJjb2RlIjoiQ0YifSx7Im5hbWUiOiJDaGFkIiwiZGlhbF9jb2RlIjoiKzIzNSIsImNvZGUiOiJURCJ9LHsibmFtZSI6IkNoaWxlIiwiZGlhbF9jb2RlIjoiKzU2IiwiY29kZSI6IkNMIn0seyJuYW1lIjoiQ2hpbmEiLCJkaWFsX2NvZGUiOiIrODYiLCJjb2RlIjoiQ04ifSx7Im5hbWUiOiJDaHJpc3RtYXMgSXNsYW5kIiwiZGlhbF9jb2RlIjoiKzYxIiwiY29kZSI6IkNYIn0seyJuYW1lIjoiQ29jb3MgKEtlZWxpbmcpIElzbGFuZHMiLCJkaWFsX2NvZGUiOiIrNjEiLCJjb2RlIjoiQ0MifSx7Im5hbWUiOiJDb2xvbWJpYSIsImRpYWxfY29kZSI6Iis1NyIsImNvZGUiOiJDTyJ9LHsibmFtZSI6IkNvbW9yb3MiLCJkaWFsX2NvZGUiOiIrMjY5IiwiY29kZSI6IktNIn0seyJuYW1lIjoiQ29uZ28iLCJkaWFsX2NvZGUiOiIrMjQyIiwiY29kZSI6IkNHIn0seyJuYW1lIjoiQ29uZ28sIFRoZSBEZW1vY3JhdGljIFJlcHVibGljIG9mIHRoZSIsImRpYWxfY29kZSI6IisyNDMiLCJjb2RlIjoiQ0QifSx7Im5hbWUiOiJDb29rIElzbGFuZHMiLCJkaWFsX2NvZGUiOiIrNjgyIiwiY29kZSI6IkNLIn0seyJuYW1lIjoiQ29zdGEgUmljYSIsImRpYWxfY29kZSI6Iis1MDYiLCJjb2RlIjoiQ1IifSx7Im5hbWUiOiJDb3RlIGQnSXZvaXJlIiwiZGlhbF9jb2RlIjoiKzIyNSIsImNvZGUiOiJDSSJ9LHsibmFtZSI6IkNyb2F0aWEiLCJkaWFsX2NvZGUiOiIrMzg1IiwiY29kZSI6IkhSIn0seyJuYW1lIjoiQ3ViYSIsImRpYWxfY29kZSI6Iis1MyIsImNvZGUiOiJDVSJ9LHsibmFtZSI6IkN5cHJ1cyIsImRpYWxfY29kZSI6IiszNTciLCJjb2RlIjoiQ1kifSx7Im5hbWUiOiJDemVjaCBSZXB1YmxpYyIsImRpYWxfY29kZSI6Iis0MjAiLCJjb2RlIjoiQ1oifSx7Im5hbWUiOiJEZW5tYXJrIiwiZGlhbF9jb2RlIjoiKzQ1IiwiY29kZSI6IkRLIn0seyJuYW1lIjoiRGppYm91dGkiLCJkaWFsX2NvZGUiOiIrMjUzIiwiY29kZSI6IkRKIn0seyJuYW1lIjoiRG9taW5pY2EiLCJkaWFsX2NvZGUiOiIrMSA3NjciLCJjb2RlIjoiRE0ifSx7Im5hbWUiOiJEb21pbmljYW4gUmVwdWJsaWMiLCJkaWFsX2NvZGUiOiIrMSA4NDkiLCJjb2RlIjoiRE8ifSx7Im5hbWUiOiJFY3VhZG9yIiwiZGlhbF9jb2RlIjoiKzU5MyIsImNvZGUiOiJFQyJ9LHsibmFtZSI6IkVneXB0IiwiZGlhbF9jb2RlIjoiKzIwIiwiY29kZSI6IkVHIn0seyJuYW1lIjoiRWwgU2FsdmFkb3IiLCJkaWFsX2NvZGUiOiIrNTAzIiwiY29kZSI6IlNWIn0seyJuYW1lIjoiRXF1YXRvcmlhbCBHdWluZWEiLCJkaWFsX2NvZGUiOiIrMjQwIiwiY29kZSI6IkdRIn0seyJuYW1lIjoiRXJpdHJlYSIsImRpYWxfY29kZSI6IisyOTEiLCJjb2RlIjoiRVIifSx7Im5hbWUiOiJFc3RvbmlhIiwiZGlhbF9jb2RlIjoiKzM3MiIsImNvZGUiOiJFRSJ9LHsibmFtZSI6IkV0aGlvcGlhIiwiZGlhbF9jb2RlIjoiKzI1MSIsImNvZGUiOiJFVCJ9LHsibmFtZSI6IkZhbGtsYW5kIElzbGFuZHMgKE1hbHZpbmFzKSIsImRpYWxfY29kZSI6Iis1MDAiLCJjb2RlIjoiRksifSx7Im5hbWUiOiJGYXJvZSBJc2xhbmRzIiwiZGlhbF9jb2RlIjoiKzI5OCIsImNvZGUiOiJGTyJ9LHsibmFtZSI6IkZpamkiLCJkaWFsX2NvZGUiOiIrNjc5IiwiY29kZSI6IkZKIn0seyJuYW1lIjoiRmlubGFuZCIsImRpYWxfY29kZSI6IiszNTgiLCJjb2RlIjoiRkkifSx7Im5hbWUiOiJGcmFuY2UiLCJkaWFsX2NvZGUiOiIrMzMiLCJjb2RlIjoiRlIifSx7Im5hbWUiOiJGcmVuY2ggR3VpYW5hIiwiZGlhbF9jb2RlIjoiKzU5NCIsImNvZGUiOiJHRiJ9LHsibmFtZSI6IkZyZW5jaCBQb2x5bmVzaWEiLCJkaWFsX2NvZGUiOiIrNjg5IiwiY29kZSI6IlBGIn0seyJuYW1lIjoiR2Fib24iLCJkaWFsX2NvZGUiOiIrMjQxIiwiY29kZSI6IkdBIn0seyJuYW1lIjoiR2FtYmlhIiwiZGlhbF9jb2RlIjoiKzIyMCIsImNvZGUiOiJHTSJ9LHsibmFtZSI6Ikdlb3JnaWEiLCJkaWFsX2NvZGUiOiIrOTk1IiwiY29kZSI6IkdFIn0seyJuYW1lIjoiR2VybWFueSIsImRpYWxfY29kZSI6Iis0OSIsImNvZGUiOiJERSJ9LHsibmFtZSI6IkdoYW5hIiwiZGlhbF9jb2RlIjoiKzIzMyIsImNvZGUiOiJHSCJ9LHsibmFtZSI6IkdpYnJhbHRhciIsImRpYWxfY29kZSI6IiszNTAiLCJjb2RlIjoiR0kifSx7Im5hbWUiOiJHcmVlY2UiLCJkaWFsX2NvZGUiOiIrMzAiLCJjb2RlIjoiR1IifSx7Im5hbWUiOiJHcmVlbmxhbmQiLCJkaWFsX2NvZGUiOiIrMjk5IiwiY29kZSI6IkdMIn0seyJuYW1lIjoiR3JlbmFkYSIsImRpYWxfY29kZSI6IisxIDQ3MyIsImNvZGUiOiJHRCJ9LHsibmFtZSI6Ikd1YWRlbG91cGUiLCJkaWFsX2NvZGUiOiIrNTkwIiwiY29kZSI6IkdQIn0seyJuYW1lIjoiR3VhbSIsImRpYWxfY29kZSI6IisxIDY3MSIsImNvZGUiOiJHVSJ9LHsibmFtZSI6Ikd1YXRlbWFsYSIsImRpYWxfY29kZSI6Iis1MDIiLCJjb2RlIjoiR1QifSx7Im5hbWUiOiJHdWVybnNleSIsImRpYWxfY29kZSI6Iis0NCIsImNvZGUiOiJHRyJ9LHsibmFtZSI6Ikd1aW5lYSIsImRpYWxfY29kZSI6IisyMjQiLCJjb2RlIjoiR04ifSx7Im5hbWUiOiJHdWluZWEtQmlzc2F1IiwiZGlhbF9jb2RlIjoiKzI0NSIsImNvZGUiOiJHVyJ9LHsibmFtZSI6Ikd1eWFuYSIsImRpYWxfY29kZSI6Iis1OTUiLCJjb2RlIjoiR1kifSx7Im5hbWUiOiJIYWl0aSIsImRpYWxfY29kZSI6Iis1MDkiLCJjb2RlIjoiSFQifSx7Im5hbWUiOiJIb2x5IFNlZSAoVmF0aWNhbiBDaXR5IFN0YXRlKSIsImRpYWxfY29kZSI6IiszNzkiLCJjb2RlIjoiVkEifSx7Im5hbWUiOiJIb25kdXJhcyIsImRpYWxfY29kZSI6Iis1MDQiLCJjb2RlIjoiSE4ifSx7Im5hbWUiOiJIb25nIEtvbmciLCJkaWFsX2NvZGUiOiIrODUyIiwiY29kZSI6IkhLIn0seyJuYW1lIjoiSHVuZ2FyeSIsImRpYWxfY29kZSI6IiszNiIsImNvZGUiOiJIVSJ9LHsibmFtZSI6IkljZWxhbmQiLCJkaWFsX2NvZGUiOiIrMzU0IiwiY29kZSI6IklTIn0seyJuYW1lIjoiSW5kaWEiLCJkaWFsX2NvZGUiOiIrOTEiLCJjb2RlIjoiSU4ifSx7Im5hbWUiOiJJbmRvbmVzaWEiLCJkaWFsX2NvZGUiOiIrNjIiLCJjb2RlIjoiSUQifSx7Im5hbWUiOiJJcmFuLCBJc2xhbWljIFJlcHVibGljIG9mIiwiZGlhbF9jb2RlIjoiKzk4IiwiY29kZSI6IklSIn0seyJuYW1lIjoiSXJhcSIsImRpYWxfY29kZSI6Iis5NjQiLCJjb2RlIjoiSVEifSx7Im5hbWUiOiJJcmVsYW5kIiwiZGlhbF9jb2RlIjoiKzM1MyIsImNvZGUiOiJJRSJ9LHsibmFtZSI6IklzbGUgb2YgTWFuIiwiZGlhbF9jb2RlIjoiKzQ0IiwiY29kZSI6IklNIn0seyJuYW1lIjoiSXNyYWVsIiwiZGlhbF9jb2RlIjoiKzk3MiIsImNvZGUiOiJJTCJ9LHsibmFtZSI6Ikl0YWx5IiwiZGlhbF9jb2RlIjoiKzM5IiwiY29kZSI6IklUIn0seyJuYW1lIjoiSmFtYWljYSIsImRpYWxfY29kZSI6IisxIDg3NiIsImNvZGUiOiJKTSJ9LHsibmFtZSI6IkphcGFuIiwiZGlhbF9jb2RlIjoiKzgxIiwiY29kZSI6IkpQIn0seyJuYW1lIjoiSmVyc2V5IiwiZGlhbF9jb2RlIjoiKzQ0IiwiY29kZSI6IkpFIn0seyJuYW1lIjoiSm9yZGFuIiwiZGlhbF9jb2RlIjoiKzk2MiIsImNvZGUiOiJKTyJ9LHsibmFtZSI6IkthemFraHN0YW4iLCJkaWFsX2NvZGUiOiIrNyA3IiwiY29kZSI6IktaIn0seyJuYW1lIjoiS2VueWEiLCJkaWFsX2NvZGUiOiIrMjU0IiwiY29kZSI6IktFIn0seyJuYW1lIjoiS2lyaWJhdGkiLCJkaWFsX2NvZGUiOiIrNjg2IiwiY29kZSI6IktJIn0seyJuYW1lIjoiS29yZWEsIERlbW9jcmF0aWMgUGVvcGxlJ3MgUmVwdWJsaWMgb2YiLCJkaWFsX2NvZGUiOiIrODUwIiwiY29kZSI6IktQIn0seyJuYW1lIjoiS29yZWEsIFJlcHVibGljIG9mIiwiZGlhbF9jb2RlIjoiKzgyIiwiY29kZSI6IktSIn0seyJuYW1lIjoiS3V3YWl0IiwiZGlhbF9jb2RlIjoiKzk2NSIsImNvZGUiOiJLVyJ9LHsibmFtZSI6Ikt5cmd5enN0YW4iLCJkaWFsX2NvZGUiOiIrOTk2IiwiY29kZSI6IktHIn0seyJuYW1lIjoiTGFvIFBlb3BsZSdzIERlbW9jcmF0aWMgUmVwdWJsaWMiLCJkaWFsX2NvZGUiOiIrODU2IiwiY29kZSI6IkxBIn0seyJuYW1lIjoiTGF0dmlhIiwiZGlhbF9jb2RlIjoiKzM3MSIsImNvZGUiOiJMViJ9LHsibmFtZSI6IkxlYmFub24iLCJkaWFsX2NvZGUiOiIrOTYxIiwiY29kZSI6IkxCIn0seyJuYW1lIjoiTGVzb3RobyIsImRpYWxfY29kZSI6IisyNjYiLCJjb2RlIjoiTFMifSx7Im5hbWUiOiJMaWJlcmlhIiwiZGlhbF9jb2RlIjoiKzIzMSIsImNvZGUiOiJMUiJ9LHsibmFtZSI6IkxpYnlhbiBBcmFiIEphbWFoaXJpeWEiLCJkaWFsX2NvZGUiOiIrMjE4IiwiY29kZSI6IkxZIn0seyJuYW1lIjoiTGllY2h0ZW5zdGVpbiIsImRpYWxfY29kZSI6Iis0MjMiLCJjb2RlIjoiTEkifSx7Im5hbWUiOiJMaXRodWFuaWEiLCJkaWFsX2NvZGUiOiIrMzcwIiwiY29kZSI6IkxUIn0seyJuYW1lIjoiTHV4ZW1ib3VyZyIsImRpYWxfY29kZSI6IiszNTIiLCJjb2RlIjoiTFUifSx7Im5hbWUiOiJNYWNhbyIsImRpYWxfY29kZSI6Iis4NTMiLCJjb2RlIjoiTU8ifSx7Im5hbWUiOiJNYWNlZG9uaWEsIFRoZSBGb3JtZXIgWXVnb3NsYXYgUmVwdWJsaWMgb2YiLCJkaWFsX2NvZGUiOiIrMzg5IiwiY29kZSI6Ik1LIn0seyJuYW1lIjoiTWFkYWdhc2NhciIsImRpYWxfY29kZSI6IisyNjEiLCJjb2RlIjoiTUcifSx7Im5hbWUiOiJNYWxhd2kiLCJkaWFsX2NvZGUiOiIrMjY1IiwiY29kZSI6Ik1XIn0seyJuYW1lIjoiTWFsYXlzaWEiLCJkaWFsX2NvZGUiOiIrNjAiLCJjb2RlIjoiTVkifSx7Im5hbWUiOiJNYWxkaXZlcyIsImRpYWxfY29kZSI6Iis5NjAiLCJjb2RlIjoiTVYifSx7Im5hbWUiOiJNYWxpIiwiZGlhbF9jb2RlIjoiKzIyMyIsImNvZGUiOiJNTCJ9LHsibmFtZSI6Ik1hbHRhIiwiZGlhbF9jb2RlIjoiKzM1NiIsImNvZGUiOiJNVCJ9LHsibmFtZSI6Ik1hcnNoYWxsIElzbGFuZHMiLCJkaWFsX2NvZGUiOiIrNjkyIiwiY29kZSI6Ik1IIn0seyJuYW1lIjoiTWFydGluaXF1ZSIsImRpYWxfY29kZSI6Iis1OTYiLCJjb2RlIjoiTVEifSx7Im5hbWUiOiJNYXVyaXRhbmlhIiwiZGlhbF9jb2RlIjoiKzIyMiIsImNvZGUiOiJNUiJ9LHsibmFtZSI6Ik1hdXJpdGl1cyIsImRpYWxfY29kZSI6IisyMzAiLCJjb2RlIjoiTVUifSx7Im5hbWUiOiJNYXlvdHRlIiwiZGlhbF9jb2RlIjoiKzI2MiIsImNvZGUiOiJZVCJ9LHsibmFtZSI6Ik1leGljbyIsImRpYWxfY29kZSI6Iis1MiIsImNvZGUiOiJNWCJ9LHsibmFtZSI6Ik1pY3JvbmVzaWEsIEZlZGVyYXRlZCBTdGF0ZXMgb2YiLCJkaWFsX2NvZGUiOiIrNjkxIiwiY29kZSI6IkZNIn0seyJuYW1lIjoiTW9sZG92YSwgUmVwdWJsaWMgb2YiLCJkaWFsX2NvZGUiOiIrMzczIiwiY29kZSI6Ik1EIn0seyJuYW1lIjoiTW9uYWNvIiwiZGlhbF9jb2RlIjoiKzM3NyIsImNvZGUiOiJNQyJ9LHsibmFtZSI6Ik1vbmdvbGlhIiwiZGlhbF9jb2RlIjoiKzk3NiIsImNvZGUiOiJNTiJ9LHsibmFtZSI6Ik1vbnRlbmVncm8iLCJkaWFsX2NvZGUiOiIrMzgyIiwiY29kZSI6Ik1FIn0seyJuYW1lIjoiTW9udHNlcnJhdCIsImRpYWxfY29kZSI6IisxNjY0IiwiY29kZSI6Ik1TIn0seyJuYW1lIjoiTW9yb2NjbyIsImRpYWxfY29kZSI6IisyMTIiLCJjb2RlIjoiTUEifSx7Im5hbWUiOiJNb3phbWJpcXVlIiwiZGlhbF9jb2RlIjoiKzI1OCIsImNvZGUiOiJNWiJ9LHsibmFtZSI6Ik15YW5tYXIiLCJkaWFsX2NvZGUiOiIrOTUiLCJjb2RlIjoiTU0ifSx7Im5hbWUiOiJOYW1pYmlhIiwiZGlhbF9jb2RlIjoiKzI2NCIsImNvZGUiOiJOQSJ9LHsibmFtZSI6Ik5hdXJ1IiwiZGlhbF9jb2RlIjoiKzY3NCIsImNvZGUiOiJOUiJ9LHsibmFtZSI6Ik5lcGFsIiwiZGlhbF9jb2RlIjoiKzk3NyIsImNvZGUiOiJOUCJ9LHsibmFtZSI6Ik5ldGhlcmxhbmRzIiwiZGlhbF9jb2RlIjoiKzMxIiwiY29kZSI6Ik5MIn0seyJuYW1lIjoiTmV0aGVybGFuZHMgQW50aWxsZXMiLCJkaWFsX2NvZGUiOiIrNTk5IiwiY29kZSI6IkFOIn0seyJuYW1lIjoiTmV3IENhbGVkb25pYSIsImRpYWxfY29kZSI6Iis2ODciLCJjb2RlIjoiTkMifSx7Im5hbWUiOiJOZXcgWmVhbGFuZCIsImRpYWxfY29kZSI6Iis2NCIsImNvZGUiOiJOWiJ9LHsibmFtZSI6Ik5pY2FyYWd1YSIsImRpYWxfY29kZSI6Iis1MDUiLCJjb2RlIjoiTkkifSx7Im5hbWUiOiJOaWdlciIsImRpYWxfY29kZSI6IisyMjciLCJjb2RlIjoiTkUifSx7Im5hbWUiOiJOaWdlcmlhIiwiZGlhbF9jb2RlIjoiKzIzNCIsImNvZGUiOiJORyJ9LHsibmFtZSI6Ik5pdWUiLCJkaWFsX2NvZGUiOiIrNjgzIiwiY29kZSI6Ik5VIn0seyJuYW1lIjoiTm9yZm9sayBJc2xhbmQiLCJkaWFsX2NvZGUiOiIrNjcyIiwiY29kZSI6Ik5GIn0seyJuYW1lIjoiTm9ydGhlcm4gTWFyaWFuYSBJc2xhbmRzIiwiZGlhbF9jb2RlIjoiKzEgNjcwIiwiY29kZSI6Ik1QIn0seyJuYW1lIjoiTm9yd2F5IiwiZGlhbF9jb2RlIjoiKzQ3IiwiY29kZSI6Ik5PIn0seyJuYW1lIjoiT21hbiIsImRpYWxfY29kZSI6Iis5NjgiLCJjb2RlIjoiT00ifSx7Im5hbWUiOiJQYWtpc3RhbiIsImRpYWxfY29kZSI6Iis5MiIsImNvZGUiOiJQSyJ9LHsibmFtZSI6IlBhbGF1IiwiZGlhbF9jb2RlIjoiKzY4MCIsImNvZGUiOiJQVyJ9LHsibmFtZSI6IlBhbGVzdGluaWFuIFRlcnJpdG9yeSwgT2NjdXBpZWQiLCJkaWFsX2NvZGUiOiIrOTcwIiwiY29kZSI6IlBTIn0seyJuYW1lIjoiUGFuYW1hIiwiZGlhbF9jb2RlIjoiKzUwNyIsImNvZGUiOiJQQSJ9LHsibmFtZSI6IlBhcHVhIE5ldyBHdWluZWEiLCJkaWFsX2NvZGUiOiIrNjc1IiwiY29kZSI6IlBHIn0seyJuYW1lIjoiUGFyYWd1YXkiLCJkaWFsX2NvZGUiOiIrNTk1IiwiY29kZSI6IlBZIn0seyJuYW1lIjoiUGVydSIsImRpYWxfY29kZSI6Iis1MSIsImNvZGUiOiJQRSJ9LHsibmFtZSI6IlBoaWxpcHBpbmVzIiwiZGlhbF9jb2RlIjoiKzYzIiwiY29kZSI6IlBIIn0seyJuYW1lIjoiUGl0Y2Fpcm4iLCJkaWFsX2NvZGUiOiIrODcyIiwiY29kZSI6IlBOIn0seyJuYW1lIjoiUG9sYW5kIiwiZGlhbF9jb2RlIjoiKzQ4IiwiY29kZSI6IlBMIn0seyJuYW1lIjoiUG9ydHVnYWwiLCJkaWFsX2NvZGUiOiIrMzUxIiwiY29kZSI6IlBUIn0seyJuYW1lIjoiUHVlcnRvIFJpY28iLCJkaWFsX2NvZGUiOiIrMSA5MzkiLCJjb2RlIjoiUFIifSx7Im5hbWUiOiJRYXRhciIsImRpYWxfY29kZSI6Iis5NzQiLCJjb2RlIjoiUUEifSx7Im5hbWUiOiJSb21hbmlhIiwiZGlhbF9jb2RlIjoiKzQwIiwiY29kZSI6IlJPIn0seyJuYW1lIjoiUnVzc2lhIiwiZGlhbF9jb2RlIjoiKzciLCJjb2RlIjoiUlUifSx7Im5hbWUiOiJSd2FuZGEiLCJkaWFsX2NvZGUiOiIrMjUwIiwiY29kZSI6IlJXIn0seyJuYW1lIjoiUsOpdW5pb24iLCJkaWFsX2NvZGUiOiIrMjYyIiwiY29kZSI6IlJFIn0seyJuYW1lIjoiU2FpbnQgQmFydGjDqWxlbXkiLCJkaWFsX2NvZGUiOiIrNTkwIiwiY29kZSI6IkJMIn0seyJuYW1lIjoiU2FpbnQgSGVsZW5hLCBBc2NlbnNpb24gYW5kIFRyaXN0YW4gRGEgQ3VuaGEiLCJkaWFsX2NvZGUiOiIrMjkwIiwiY29kZSI6IlNIIn0seyJuYW1lIjoiU2FpbnQgS2l0dHMgYW5kIE5ldmlzIiwiZGlhbF9jb2RlIjoiKzEgODY5IiwiY29kZSI6IktOIn0seyJuYW1lIjoiU2FpbnQgTHVjaWEiLCJkaWFsX2NvZGUiOiIrMSA3NTgiLCJjb2RlIjoiTEMifSx7Im5hbWUiOiJTYWludCBNYXJ0aW4iLCJkaWFsX2NvZGUiOiIrNTkwIiwiY29kZSI6Ik1GIn0seyJuYW1lIjoiU2FpbnQgUGllcnJlIGFuZCBNaXF1ZWxvbiIsImRpYWxfY29kZSI6Iis1MDgiLCJjb2RlIjoiUE0ifSx7Im5hbWUiOiJTYWludCBWaW5jZW50IGFuZCB0aGUgR3JlbmFkaW5lcyIsImRpYWxfY29kZSI6IisxIDc4NCIsImNvZGUiOiJWQyJ9LHsibmFtZSI6IlNhbW9hIiwiZGlhbF9jb2RlIjoiKzY4NSIsImNvZGUiOiJXUyJ9LHsibmFtZSI6IlNhbiBNYXJpbm8iLCJkaWFsX2NvZGUiOiIrMzc4IiwiY29kZSI6IlNNIn0seyJuYW1lIjoiU2FvIFRvbWUgYW5kIFByaW5jaXBlIiwiZGlhbF9jb2RlIjoiKzIzOSIsImNvZGUiOiJTVCJ9LHsibmFtZSI6IlNhdWRpIEFyYWJpYSIsImRpYWxfY29kZSI6Iis5NjYiLCJjb2RlIjoiU0EifSx7Im5hbWUiOiJTZW5lZ2FsIiwiZGlhbF9jb2RlIjoiKzIyMSIsImNvZGUiOiJTTiJ9LHsibmFtZSI6IlNlcmJpYSIsImRpYWxfY29kZSI6IiszODEiLCJjb2RlIjoiUlMifSx7Im5hbWUiOiJTZXljaGVsbGVzIiwiZGlhbF9jb2RlIjoiKzI0OCIsImNvZGUiOiJTQyJ9LHsibmFtZSI6IlNpZXJyYSBMZW9uZSIsImRpYWxfY29kZSI6IisyMzIiLCJjb2RlIjoiU0wifSx7Im5hbWUiOiJTaW5nYXBvcmUiLCJkaWFsX2NvZGUiOiIrNjUiLCJjb2RlIjoiU0cifSx7Im5hbWUiOiJTbG92YWtpYSIsImRpYWxfY29kZSI6Iis0MjEiLCJjb2RlIjoiU0sifSx7Im5hbWUiOiJTbG92ZW5pYSIsImRpYWxfY29kZSI6IiszODYiLCJjb2RlIjoiU0kifSx7Im5hbWUiOiJTb2xvbW9uIElzbGFuZHMiLCJkaWFsX2NvZGUiOiIrNjc3IiwiY29kZSI6IlNCIn0seyJuYW1lIjoiU29tYWxpYSIsImRpYWxfY29kZSI6IisyNTIiLCJjb2RlIjoiU08ifSx7Im5hbWUiOiJTb3V0aCBBZnJpY2EiLCJkaWFsX2NvZGUiOiIrMjciLCJjb2RlIjoiWkEifSx7Im5hbWUiOiJTb3V0aCBHZW9yZ2lhIGFuZCB0aGUgU291dGggU2FuZHdpY2ggSXNsYW5kcyIsImRpYWxfY29kZSI6Iis1MDAiLCJjb2RlIjoiR1MifSx7Im5hbWUiOiJTcGFpbiIsImRpYWxfY29kZSI6IiszNCIsImNvZGUiOiJFUyJ9LHsibmFtZSI6IlNyaSBMYW5rYSIsImRpYWxfY29kZSI6Iis5NCIsImNvZGUiOiJMSyJ9LHsibmFtZSI6IlN1ZGFuIiwiZGlhbF9jb2RlIjoiKzI0OSIsImNvZGUiOiJTRCJ9LHsibmFtZSI6IlN1cmluYW1lIiwiZGlhbF9jb2RlIjoiKzU5NyIsImNvZGUiOiJTUiJ9LHsibmFtZSI6IlN2YWxiYXJkIGFuZCBKYW4gTWF5ZW4iLCJkaWFsX2NvZGUiOiIrNDciLCJjb2RlIjoiU0oifSx7Im5hbWUiOiJTd2F6aWxhbmQiLCJkaWFsX2NvZGUiOiIrMjY4IiwiY29kZSI6IlNaIn0seyJuYW1lIjoiU3dlZGVuIiwiZGlhbF9jb2RlIjoiKzQ2IiwiY29kZSI6IlNFIn0seyJuYW1lIjoiU3dpdHplcmxhbmQiLCJkaWFsX2NvZGUiOiIrNDEiLCJjb2RlIjoiQ0gifSx7Im5hbWUiOiJTeXJpYW4gQXJhYiBSZXB1YmxpYyIsImRpYWxfY29kZSI6Iis5NjMiLCJjb2RlIjoiU1kifSx7Im5hbWUiOiJUYWl3YW4iLCJkaWFsX2NvZGUiOiIrODg2IiwiY29kZSI6IlRXIn0seyJuYW1lIjoiVGFqaWtpc3RhbiIsImRpYWxfY29kZSI6Iis5OTIiLCJjb2RlIjoiVEoifSx7Im5hbWUiOiJUYW56YW5pYSwgVW5pdGVkIFJlcHVibGljIG9mIiwiZGlhbF9jb2RlIjoiKzI1NSIsImNvZGUiOiJUWiJ9LHsibmFtZSI6IlRoYWlsYW5kIiwiZGlhbF9jb2RlIjoiKzY2IiwiY29kZSI6IlRIIn0seyJuYW1lIjoiVGltb3ItTGVzdGUiLCJkaWFsX2NvZGUiOiIrNjcwIiwiY29kZSI6IlRMIn0seyJuYW1lIjoiVG9nbyIsImRpYWxfY29kZSI6IisyMjgiLCJjb2RlIjoiVEcifSx7Im5hbWUiOiJUb2tlbGF1IiwiZGlhbF9jb2RlIjoiKzY5MCIsImNvZGUiOiJUSyJ9LHsibmFtZSI6IlRvbmdhIiwiZGlhbF9jb2RlIjoiKzY3NiIsImNvZGUiOiJUTyJ9LHsibmFtZSI6IlRyaW5pZGFkIGFuZCBUb2JhZ28iLCJkaWFsX2NvZGUiOiIrMSA4NjgiLCJjb2RlIjoiVFQifSx7Im5hbWUiOiJUdW5pc2lhIiwiZGlhbF9jb2RlIjoiKzIxNiIsImNvZGUiOiJUTiJ9LHsibmFtZSI6IlR1cmtleSIsImRpYWxfY29kZSI6Iis5MCIsImNvZGUiOiJUUiJ9LHsibmFtZSI6IlR1cmttZW5pc3RhbiIsImRpYWxfY29kZSI6Iis5OTMiLCJjb2RlIjoiVE0ifSx7Im5hbWUiOiJUdXJrcyBhbmQgQ2FpY29zIElzbGFuZHMiLCJkaWFsX2NvZGUiOiIrMSA2NDkiLCJjb2RlIjoiVEMifSx7Im5hbWUiOiJUdXZhbHUiLCJkaWFsX2NvZGUiOiIrNjg4IiwiY29kZSI6IlRWIn0seyJuYW1lIjoiVWdhbmRhIiwiZGlhbF9jb2RlIjoiKzI1NiIsImNvZGUiOiJVRyJ9LHsibmFtZSI6IlVrcmFpbmUiLCJkaWFsX2NvZGUiOiIrMzgwIiwiY29kZSI6IlVBIn0seyJuYW1lIjoiVW5pdGVkIEFyYWIgRW1pcmF0ZXMiLCJkaWFsX2NvZGUiOiIrOTcxIiwiY29kZSI6IkFFIn0seyJuYW1lIjoiVW5pdGVkIEtpbmdkb20iLCJkaWFsX2NvZGUiOiIrNDQiLCJjb2RlIjoiR0IifSx7Im5hbWUiOiJVbml0ZWQgU3RhdGVzIiwiZGlhbF9jb2RlIjoiKzEiLCJjb2RlIjoiVVMifSx7Im5hbWUiOiJVcnVndWF5IiwiZGlhbF9jb2RlIjoiKzU5OCIsImNvZGUiOiJVWSJ9LHsibmFtZSI6IlV6YmVraXN0YW4iLCJkaWFsX2NvZGUiOiIrOTk4IiwiY29kZSI6IlVaIn0seyJuYW1lIjoiVmFudWF0dSIsImRpYWxfY29kZSI6Iis2NzgiLCJjb2RlIjoiVlUifSx7Im5hbWUiOiJWZW5lenVlbGEsIEJvbGl2YXJpYW4gUmVwdWJsaWMgb2YiLCJkaWFsX2NvZGUiOiIrNTgiLCJjb2RlIjoiVkUifSx7Im5hbWUiOiJWaWV0IE5hbSIsImRpYWxfY29kZSI6Iis4NCIsImNvZGUiOiJWTiJ9LHsibmFtZSI6IlZpcmdpbiBJc2xhbmRzLCBCcml0aXNoIiwiZGlhbF9jb2RlIjoiKzEgMjg0IiwiY29kZSI6IlZHIn0seyJuYW1lIjoiVmlyZ2luIElzbGFuZHMsIFUuUy4iLCJkaWFsX2NvZGUiOiIrMSAzNDAiLCJjb2RlIjoiVkkifSx7Im5hbWUiOiJXYWxsaXMgYW5kIEZ1dHVuYSIsImRpYWxfY29kZSI6Iis2ODEiLCJjb2RlIjoiV0YifSx7Im5hbWUiOiJZZW1lbiIsImRpYWxfY29kZSI6Iis5NjciLCJjb2RlIjoiWUUifSx7Im5hbWUiOiJaYW1iaWEiLCJkaWFsX2NvZGUiOiIrMjYwIiwiY29kZSI6IlpNIn0seyJuYW1lIjoiWmltYmFid2UiLCJkaWFsX2NvZGUiOiIrMjYzIiwiY29kZSI6IlpXIn0seyJuYW1lIjoiw4VsYW5kIElzbGFuZHMiLCJkaWFsX2NvZGUiOiIrMzU4IiwiY29kZSI6IkFYIn1d</string>
     <string name="date">10\nMay</string>
     <string name="default_web_client_id" translatable="false">274733603126-8o1211dc9t1sj9h6qg5npahafrc955bc.apps.googleusercontent.com</string>
+    <string name="delivery_charge">Delivery charge:</string>
     <string name="delivery_charges">Delivery charges</string>
     <string name="delivery_fee">Delivery fee</string>
     <string name="delivery_time">Delivery time</string>
@@ -899,6 +903,7 @@
     <string name="email">Email</string>
     <string name="email_address"> Email Address </string>
     <string name="email_error">Enter valid email address</string>
+    <string name="enable_gps">Enable GPS for higher accuracy</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="firebase_database_url" translatable="false">https://userapp-hababk.firebaseio.com</string>
     <string name="forgot_password">Forgot password?</string>
@@ -915,12 +920,14 @@
     <string name="high_to_low">High to low</string>
     <string name="hint_home_search">Search restaurant</string>
     <string name="is_demo" translatable="false">false</string>
+    <string name="items_in_cart">Items in cart</string>
     <string name="label_cart">Cart</string>
     <string name="label_order_detail">Order Tracking</string>
     <string name="label_placed">Order Placed</string>
     <string name="label_rate">Rate and review</string>
     <string name="label_refine">Refine</string>
     <string name="loading">…</string>
+    <string name="location_services">Location Services Needed</string>
     <string name="logout">Logout</string>
     <string name="logout_ask">Are you sure you want to logout?</string>
     <string name="low_to_high">Low to high</string>
@@ -928,6 +935,7 @@
     <string name="min">Min</string>
     <string name="min_order">Min order</string>
     <string name="name"> Name </string>
+    <string name="name_app">Hababak</string>
     <string name="name_error">Please provide your name</string>
     <string name="nav_details"> My details </string>
     <string name="nav_favo"> Favorites </string>
@@ -944,8 +952,11 @@
     <string name="no_item">No items found at the moment</string>
     <string name="no_items_found_at_the_moment">No items found at the moment</string>
     <string name="no_restaurants_locaction">No restaurants to show in selected location.</string>
+    <string name="no_reviews">No reviews found</string>
     <string name="non_veg">Non-Veg</string>
+    <string name="ok">OK</string>
     <string name="open">Open</string>
+    <string name="order_details">Order details</string>
     <string name="order_placed">Order Placed</string>
     <string name="password">Password</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
@@ -953,6 +964,7 @@
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
+    <string name="payable_amount">Payable amount</string>
     <string name="payment">Payment</string>
     <string name="payment_method">Payment method</string>
     <string name="personal_details">Personal details</string>
@@ -971,7 +983,9 @@
     <string name="sample_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</string>
     <string name="search_header">Search for: %s</string>
     <string name="search_menu_title">Search</string>
+    <string name="select_address">Select Address</string>
     <string name="send_mail">Send mail</string>
+    <string name="service_charge">Service charge:</string>
     <string name="service_fee">Service fee (4%)</string>
     <string name="shipping">Shipping</string>
     <string name="sign_in_now">Sign in now</string>
@@ -982,11 +996,16 @@
     <string name="status">Status</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sub_total">Sub Total</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="sudan">Sudan</string>
     <string name="swipe_down_to_retry">( Swipe down to retry. )</string>
     <string name="title">Title</string>
     <string name="title_verification">Please type the verification Code.
         Although automatic verification is in progress.</string>
     <string name="type_of_food">Type of food</string>
+    <string name="use_location">This app needs the Location permission, please accept to use location functionality</string>
+    <string name="valid_password">Please enter valid password, Twice.</string>
+    <string name="valid_password_char">Provide at least 6 character password</string>
     <string name="veg">Veg</string>
     <string name="yes">Yes</string>
     <string name="your_payment_method">Your payment method</string>
@@ -1001,7 +1020,7 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -1255,7 +1274,7 @@
         <item name="actionBarWidgetTheme">@null</item>
         <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
 
-        <!-- Panel attributes -->
+        
         <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
 
         <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
@@ -1306,7 +1325,7 @@
         <item name="colorButtonNormal">@color/button_material_dark</item>
         <item name="colorSwitchThumbNormal">@color/switch_thumb_material_dark</item>
 
-        <!-- Used by MediaRouter -->
+        
         <item name="isLightTheme">false</item>
     </style>
     <style name="Base.ThemeOverlay.AppCompat.Dark.ActionBar">
@@ -1343,7 +1362,7 @@
         <item name="colorButtonNormal">@color/button_material_light</item>
         <item name="colorSwitchThumbNormal">@color/switch_thumb_material_light</item>
 
-        <!-- Used by MediaRouter -->
+        
         <item name="isLightTheme">true</item>
     </style>
     <style name="Base.V14.Widget.Design.AppBarLayout" parent="android:Widget">
@@ -1359,7 +1378,7 @@
 
         <item name="colorBackgroundFloating">@color/background_floating_material_dark</item>
 
-        <!-- Used by MediaRouter -->
+        
         <item name="isLightTheme">false</item>
 
         <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
@@ -1370,7 +1389,7 @@
         <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
         <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
 
-        <!-- Action Bar Styles -->
+        
         <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
         <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
         <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
@@ -1387,10 +1406,10 @@
         <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
         <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
 
-        <!-- Dropdown Spinner Attributes -->
+        
         <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
 
-        <!-- Action Mode -->
+        
         <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
         <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
@@ -1403,14 +1422,14 @@
         <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
         <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
 
-        <!-- Panel attributes -->
+        
         <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
         <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
         <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
         <item name="android:panelBackground">@android:color/transparent</item>
         <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
 
-        <!-- List attributes -->
+        
         <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
         <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
         <item name="textAppearanceListItemSecondary">@style/TextAppearance.AppCompat.Body1</item>
@@ -1420,16 +1439,16 @@
         <item name="listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
         <item name="listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
 
-        <!-- Spinner styles -->
+        
         <item name="spinnerStyle">@style/Widget.AppCompat.Spinner</item>
         <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
         <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
 
-        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        
         <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
         <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
 
-        <!-- Popup Menu styles -->
+        
         <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
         <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
         <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
@@ -1438,17 +1457,17 @@
         <item name="dropDownListViewStyle">?android:attr/dropDownListViewStyle</item>
         <item name="listMenuViewStyle">@style/Widget.AppCompat.ListMenuView</item>
 
-        <!-- SearchView attributes -->
+        
         <item name="searchViewStyle">@style/Widget.AppCompat.SearchView</item>
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
         <item name="textColorSearchUrl">@color/abc_search_url_text</item>
         <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
         <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
 
-        <!-- ShareActionProvider attributes -->
+        
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
 
-        <!-- Toolbar styles -->
+        
         <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
         <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
 
@@ -1457,7 +1476,7 @@
         <item name="editTextColor">?android:attr/textColorPrimary</item>
         <item name="autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
 
-        <!-- Color palette -->
+        
         <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
         <item name="colorPrimary">@color/primary_material_dark</item>
         <item name="colorAccent">@color/accent_material_dark</item>
@@ -1480,7 +1499,7 @@
         <item name="ratingBarStyleSmall">@style/Widget.AppCompat.RatingBar.Small</item>
         <item name="seekBarStyle">@style/Widget.AppCompat.SeekBar</item>
 
-        <!-- Button styles -->
+        
         <item name="buttonStyle">@style/Widget.AppCompat.Button</item>
         <item name="buttonStyleSmall">@style/Widget.AppCompat.Button.Small</item>
         <item name="android:textAppearanceButton">@style/TextAppearance.AppCompat.Widget.Button</item>
@@ -1493,7 +1512,7 @@
         <item name="buttonBarNegativeButtonStyle">?attr/buttonBarButtonStyle</item>
         <item name="buttonBarNeutralButtonStyle">?attr/buttonBarButtonStyle</item>
 
-        <!-- Dialog attributes -->
+        
         <item name="dialogTheme">@style/ThemeOverlay.AppCompat.Dialog</item>
         <item name="dialogPreferredPadding">@dimen/abc_dialog_padding_material</item>
 
@@ -1503,14 +1522,13 @@
         <item name="textColorAlertDialogListItem">@color/abc_primary_text_material_dark</item>
         <item name="listDividerAlertDialog">@null</item>
 
-        <!-- Define these here; ContextThemeWrappers around themes that define them should
-             always clear these values. -->
+        
         <item name="windowFixedWidthMajor">@null</item>
         <item name="windowFixedWidthMinor">@null</item>
         <item name="windowFixedHeightMajor">@null</item>
         <item name="windowFixedHeightMinor">@null</item>
 
-        <!-- Tooltip attributes -->
+        
         <item name="tooltipFrameBackground">@drawable/tooltip_frame_light</item>
         <item name="tooltipForegroundColor">@color/foreground_material_light</item>
 
@@ -1553,7 +1571,7 @@
 
         <item name="colorBackgroundFloating">@color/background_floating_material_light</item>
 
-        <!-- Used by MediaRouter -->
+        
         <item name="isLightTheme">true</item>
 
         <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
@@ -1564,7 +1582,7 @@
         <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
         <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
 
-        <!-- Action Bar Styles -->
+        
         <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
         <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
         <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
@@ -1581,7 +1599,7 @@
         <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
         <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
 
-        <!-- Action Mode -->
+        
         <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
         <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
@@ -1594,17 +1612,17 @@
         <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
         <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
 
-        <!-- Dropdown Spinner Attributes -->
+        
         <item name="actionDropDownStyle">@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
 
-        <!-- Panel attributes -->
+        
         <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
         <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
         <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
         <item name="android:panelBackground">@android:color/transparent</item>
         <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
 
-        <!-- List attributes -->
+        
         <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
         <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
         <item name="textAppearanceListItemSecondary">@style/TextAppearance.AppCompat.Body1</item>
@@ -1614,16 +1632,16 @@
         <item name="listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
         <item name="listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
 
-        <!-- Spinner styles -->
+        
         <item name="spinnerStyle">@style/Widget.AppCompat.Spinner</item>
         <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
         <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
 
-        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        
         <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
         <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
 
-        <!-- Popup Menu styles -->
+        
         <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
         <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
         <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
@@ -1632,17 +1650,17 @@
         <item name="dropDownListViewStyle">?android:attr/dropDownListViewStyle</item>
         <item name="listMenuViewStyle">@style/Widget.AppCompat.ListMenuView</item>
 
-        <!-- SearchView attributes -->
+        
         <item name="searchViewStyle">@style/Widget.AppCompat.Light.SearchView</item>
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
         <item name="textColorSearchUrl">@color/abc_search_url_text</item>
         <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
         <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
 
-        <!-- ShareActionProvider attributes -->
+        
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
 
-        <!-- Toolbar styles -->
+        
         <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
         <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
 
@@ -1651,7 +1669,7 @@
         <item name="editTextColor">?android:attr/textColorPrimary</item>
         <item name="autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
 
-        <!-- Color palette -->
+        
         <item name="colorPrimaryDark">@color/primary_dark_material_light</item>
         <item name="colorPrimary">@color/primary_material_light</item>
         <item name="colorAccent">@color/accent_material_light</item>
@@ -1674,7 +1692,7 @@
         <item name="ratingBarStyleSmall">@style/Widget.AppCompat.RatingBar.Small</item>
         <item name="seekBarStyle">@style/Widget.AppCompat.SeekBar</item>
 
-        <!-- Button styles -->
+        
         <item name="buttonStyle">@style/Widget.AppCompat.Button</item>
         <item name="buttonStyleSmall">@style/Widget.AppCompat.Button.Small</item>
         <item name="android:textAppearanceButton">@style/TextAppearance.AppCompat.Widget.Button</item>
@@ -1687,7 +1705,7 @@
         <item name="buttonBarNegativeButtonStyle">?attr/buttonBarButtonStyle</item>
         <item name="buttonBarNeutralButtonStyle">?attr/buttonBarButtonStyle</item>
 
-        <!-- Dialog attributes -->
+        
         <item name="dialogTheme">@style/ThemeOverlay.AppCompat.Dialog</item>
         <item name="dialogPreferredPadding">@dimen/abc_dialog_padding_material</item>
 
@@ -1697,14 +1715,13 @@
         <item name="textColorAlertDialogListItem">@color/abc_primary_text_material_light</item>
         <item name="listDividerAlertDialog">@null</item>
 
-        <!-- Define these here; ContextThemeWrappers around themes that define them should
-             always clear these values. -->
+        
         <item name="windowFixedWidthMajor">@null</item>
         <item name="windowFixedWidthMinor">@null</item>
         <item name="windowFixedHeightMajor">@null</item>
         <item name="windowFixedHeightMinor">@null</item>
 
-        <!-- Tooltip attributes -->
+        
         <item name="tooltipFrameBackground">@drawable/tooltip_frame_dark</item>
         <item name="tooltipForegroundColor">@color/foreground_material_dark</item>
 
@@ -2124,7 +2141,7 @@
         <item name="android:buttonBarButtonStyle">?attr/buttonBarButtonStyle</item>
         <item name="android:borderlessButtonStyle">?attr/borderlessButtonStyle</item>
 
-        <!-- Window colors -->
+        
         <item name="android:colorForeground">@color/foreground_material_dark</item>
         <item name="android:colorForegroundInverse">@color/foreground_material_light</item>
         <item name="android:colorBackground">@color/background_material_dark</item>
@@ -2133,7 +2150,7 @@
         <item name="android:backgroundDimAmount">0.6</item>
         <item name="android:windowBackground">@color/background_material_dark</item>
 
-        <!-- Text colors -->
+        
         <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
         <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
         <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
@@ -2149,7 +2166,7 @@
         <item name="android:textColorLinkInverse">?attr/colorAccent</item>
         <item name="android:textColorAlertDialogListItem">@color/abc_primary_text_material_dark</item>
 
-        <!-- Text styles -->
+        
         <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
         <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
         <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
@@ -2182,7 +2199,7 @@
         <item name="android:buttonBarButtonStyle">?attr/buttonBarButtonStyle</item>
         <item name="android:borderlessButtonStyle">?attr/borderlessButtonStyle</item>
 
-        <!-- Window colors -->
+        
         <item name="android:colorForeground">@color/foreground_material_light</item>
         <item name="android:colorForegroundInverse">@color/foreground_material_dark</item>
         <item name="android:colorBackground">@color/background_material_light</item>
@@ -2191,7 +2208,7 @@
         <item name="android:backgroundDimAmount">0.6</item>
         <item name="android:windowBackground">@color/background_material_light</item>
 
-        <!-- Text colors -->
+        
         <item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
         <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
         <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
@@ -2208,7 +2225,7 @@
         <item name="android:textColorLinkInverse">?attr/colorAccent</item>
         <item name="android:textColorAlertDialogListItem">@color/abc_primary_text_material_light</item>
 
-        <!-- Text styles -->
+        
         <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
         <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
         <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
@@ -2235,12 +2252,12 @@
     </style>
     <style name="Platform.ThemeOverlay.AppCompat" parent=""/>
     <style name="Platform.ThemeOverlay.AppCompat.Dark">
-        <!-- Action Bar styles -->
+        
         <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
         <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
         <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
 
-        <!-- SearchView styles -->
+        
         <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>
@@ -2249,7 +2266,7 @@
         <item name="actionDropDownStyle">@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
         <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
 
-        <!-- SearchView attributes -->
+        
         <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.Light.AutoCompleteTextView</item>
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>

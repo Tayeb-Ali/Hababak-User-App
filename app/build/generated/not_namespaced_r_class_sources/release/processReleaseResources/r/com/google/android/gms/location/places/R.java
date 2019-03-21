@@ -36,10 +36,10 @@ public final class R {
     public static final class drawable {
         private drawable() {}
 
-        public static final int places_ic_clear = 0x7f0800cb;
-        public static final int places_ic_search = 0x7f0800cc;
-        public static final int powered_by_google_dark = 0x7f0800cd;
-        public static final int powered_by_google_light = 0x7f0800ce;
+        public static final int places_ic_clear = 0x7f0800cc;
+        public static final int places_ic_search = 0x7f0800cd;
+        public static final int powered_by_google_dark = 0x7f0800ce;
+        public static final int powered_by_google_light = 0x7f0800cf;
     }
     public static final class id {
         private id() {}
@@ -64,7 +64,7 @@ public final class R {
     public static final class string {
         private string() {}
 
-        public static final int place_autocomplete_clear_button = 0x7f0f008f;
-        public static final int place_autocomplete_search_hint = 0x7f0f0090;
+        public static final int place_autocomplete_clear_button = 0x7f0f009b;
+        public static final int place_autocomplete_search_hint = 0x7f0f009c;
     }
 }

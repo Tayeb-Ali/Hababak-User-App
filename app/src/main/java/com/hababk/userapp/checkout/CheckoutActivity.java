@@ -41,9 +41,12 @@ public class CheckoutActivity extends AppCompatActivity {
     private static String DATA_CART = "CartItems";
     private static String DATA_COUPON = "CouponResponse";
 
-    private final String FRAG_TAG_ADDRESS = "Shipping Detail";
-    private final String FRAG_TAG_PAYMENT_MODE = "Payment Detail";
-    private final String FRAG_TAG_CONFIRM = "Confirm Order";
+//    private final String FRAG_TAG_ADDRESS = "Shipping Detail";
+    private final String FRAG_TAG_ADDRESS = "تفاصيل التوصيل";
+    private final String FRAG_TAG_PAYMENT_MODE = "تفاصيل البيع";
+//    private final String FRAG_TAG_PAYMENT_MODE = "Payment Detail";
+//    private final String FRAG_TAG_CONFIRM = "Confirm Order";
+    private final String FRAG_TAG_CONFIRM = "تاكيد الطلب";
 
     private Handler mHandler;
     private int checkoutStage;
@@ -223,7 +226,7 @@ public class CheckoutActivity extends AppCompatActivity {
 
     private void setupViews() {
         getSupportActionBar().setTitle(checkoutStage == 1 ? FRAG_TAG_ADDRESS : checkoutStage == 2 ? FRAG_TAG_CONFIRM : FRAG_TAG_PAYMENT_MODE);
-        checkoutActionText.setText(checkoutStage == 0 ? "Select Address" : checkoutStage == 1 ? "Proceed to Payment" : checkoutStage == 2 ? "Confirm Order" : "Confirm & Pay");
+        checkoutActionText.setText(checkoutStage == 0 ? getString(R.string.select_address) : checkoutStage == 1 ? getString(R.string.proceed_to_payment) : checkoutStage == 2 ? getString(R.string.confirm_order) : getString(R.string.confirm_pay));
         checkoutStageHeading1.setTextColor(ContextCompat.getColor(this, checkoutStage >= 0 ? R.color.colorAccent : android.R.color.darker_gray));
         checkoutStageHeading2.setTextColor(ContextCompat.getColor(this, checkoutStage >= 2 ? R.color.colorAccent : android.R.color.darker_gray));
         checkoutStageHeading3.setTextColor(ContextCompat.getColor(this, checkoutStage >= 3 ? R.color.colorAccent : android.R.color.darker_gray));

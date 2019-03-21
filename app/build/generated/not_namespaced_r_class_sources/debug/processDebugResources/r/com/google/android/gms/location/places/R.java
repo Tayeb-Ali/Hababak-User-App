@@ -64,7 +64,7 @@ public final class R {
     public static final class string {
         private string() {}
 
-        public static final int place_autocomplete_clear_button = 0x7f0f0093;
-        public static final int place_autocomplete_search_hint = 0x7f0f0094;
+        public static final int place_autocomplete_clear_button = 0x7f0f009b;
+        public static final int place_autocomplete_search_hint = 0x7f0f009c;
     }
 }

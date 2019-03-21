@@ -92,7 +92,7 @@ public class CartActivity extends AppCompatActivity implements CartAdapter.CartT
                 serviceCharge = 0;
             }
         }
-        feeServicePercent.setText(String.format("Service fee (%d%%)", serviceCharge));
+        feeServicePercent.setText(String.format(getString(R.string.service_fee)+" (%d%%)", serviceCharge));
         feeDelivery.setText(String.valueOf(deliveryFee));
         if (cartItems.isEmpty()) {
             emptyView.setVisibility(View.VISIBLE);

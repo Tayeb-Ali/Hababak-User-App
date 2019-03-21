@@ -1560,6 +1560,7 @@ string apply_filter
 string area
 string avg_delivery
 string back_to_login
+string blaad_alhramen
 string both
 string bottom_sheet_behavior
 string cart_clear
@@ -1590,11 +1591,14 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string confirm
+string confirm_order
 string confirm_password
+string confirm_pay
 string continue_ordering
 string countries_code
 string date
 string default_web_client_id
+string delivery_charge
 string delivery_charges
 string delivery_fee
 string delivery_time
@@ -1619,6 +1623,7 @@ string hey
 string high_to_low
 string hint_home_search
 string is_demo
+string items_in_cart
 string label_cart
 string label_order_detail
 string label_placed
@@ -1650,9 +1655,11 @@ string no_address
 string no_item
 string no_items_found_at_the_moment
 string no_restaurants_locaction
+string no_reviews
 string non_veg
 string ok
 string open
+string order_details
 string order_placed
 string password
 string password_toggle_content_description
@@ -1660,6 +1667,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string payable_amount
 string payment
 string payment_method
 string personal_details
@@ -1678,7 +1686,9 @@ string review_order
 string sample_text
 string search_header
 string search_menu_title
+string select_address
 string send_mail
+string service_charge
 string service_fee
 string shipping
 string sign_in_now
@@ -1689,11 +1699,15 @@ string splash_message
 string status
 string status_bar_notification_info_overflow
 string sub_total
+string subtotal
+string sudan
 string swipe_down_to_retry
 string title
 string title_verification
 string type_of_food
 string use_location
+string valid_password
+string valid_password_char
 string veg
 string yes
 string your_payment_method

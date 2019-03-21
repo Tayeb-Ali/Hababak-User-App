@@ -107,5 +107,19 @@
     <string name="enable_gps">Enable GPS for higher accuracy</string>
     <string name="ok">OK</string>
     <string name="use_location">This app needs the Location permission, please accept to use location functionality</string>
+    <string name="no_reviews">No reviews found</string>
+    <string name="items_in_cart">Items in cart</string>
+    <string name="sudan">Sudan</string>
+    <string name="blaad_alhramen">Blaad Alhramen</string>
+    <string name="valid_password">Please enter valid password, Twice.</string>
+    <string name="valid_password_char">Provide at least 6 character password</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="confirm_pay"><![CDATA[Confirm & Pay]]></string>
+    <string name="select_address">Select Address</string>
+    <string name="order_details">Order details</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="service_charge">Service charge:</string>
+    <string name="delivery_charge">Delivery charge:</string>
+    <string name="payable_amount">Payable amount</string>
 
 </resources>

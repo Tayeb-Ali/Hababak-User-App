@@ -168,9 +168,9 @@ public class RestaurantDetailActivity extends AppCompatActivity {
 
     private void setupViewPager(StoreDetail storeDetail) {
         adapter = new ViewPagerAdapter(getSupportFragmentManager());
-        adapter.addFragment(CuisineFragment.newInstance(storeDetail), "Cuisine");
-        adapter.addFragment(ReviewFragment.newInstance(storeDetail.getStore()), "Review");
-        adapter.addFragment(InfoFragment.newInstance(storeDetail.getStore()), "Info");
+        adapter.addFragment(CuisineFragment.newInstance(storeDetail), "أطباق");
+        adapter.addFragment(ReviewFragment.newInstance(storeDetail.getStore()), "المراجعات");
+        adapter.addFragment(InfoFragment.newInstance(storeDetail.getStore()), "المعلومات");
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
