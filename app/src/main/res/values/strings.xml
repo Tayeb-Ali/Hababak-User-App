@@ -121,5 +121,6 @@
     <string name="service_charge">Service charge:</string>
     <string name="delivery_charge">Delivery charge:</string>
     <string name="payable_amount">Payable amount</string>
+    <string name="submit">Submit</string>
 
 </resources>

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-99:12
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-102:12
 MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /home/ppain/.gradle/caches/transforms-1/files-1.1/silicompressor-2.1.aar/dd707d6540cbb159d76acca2137a2591/AndroidManifest.xml:2:1-20:12
 MERGED from [io.apptik.widget:multislider:1.3] /home/ppain/.gradle/caches/transforms-1/files-1.1/multislider-1.3.aar/315aaf0522bed8d1618f6e3ee8b201b8/AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:design:27.1.1] /home/ppain/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b561890c6dca0d344269dc464f51293a/AndroidManifest.xml:17:1-22:12
@@ -57,22 +57,22 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ppain/.gradle/cac
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ppain/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cd8dfc32486147f58342ab7dccc878b3/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ppain/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f24838868e4fa191a719a58febf49fac/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/ppain/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/85de0df822c77e7a475f0123d5a45933/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-102:12
 	package
 		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:4:5-33
 		INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-99:12
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-102:12
 		INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-99:12
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:1-102:12
 		INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:2:11-69
@@ -113,7 +113,7 @@ ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.
 	android:name
 		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:10:5-97:19
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:10:5-100:19
 MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /home/ppain/.gradle/caches/transforms-1/files-1.1/silicompressor-2.1.aar/dd707d6540cbb159d76acca2137a2591/AndroidManifest.xml:14:5-18:19
 MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /home/ppain/.gradle/caches/transforms-1/files-1.1/silicompressor-2.1.aar/dd707d6540cbb159d76acca2137a2591/AndroidManifest.xml:14:5-18:19
 MERGED from [io.apptik.widget:multislider:1.3] /home/ppain/.gradle/caches/transforms-1/files-1.1/multislider-1.3.aar/315aaf0522bed8d1618f6e3ee8b201b8/AndroidManifest.xml:11:5-12:19
@@ -269,78 +269,84 @@ ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.
 		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:56:13-49
 	android:name
 		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:55:13-83
-activity#com.hababk.userapp.activity.FoodDetailActivity
+activity#com.hababk.userapp.activity.MapsActivity
 ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:57:9-59:52
 	android:screenOrientation
 		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:59:13-49
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:58:13-74
-activity#com.hababk.userapp.checkout.CheckoutActivity
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:58:13-50
+activity#com.hababk.userapp.activity.FoodDetailActivity
 ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:60:9-62:52
 	android:screenOrientation
 		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:62:13-49
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:61:13-72
-activity#com.hababk.userapp.activity.AddEditAddressActivity
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:63:9-66:70
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:61:13-74
+activity#com.hababk.userapp.checkout.CheckoutActivity
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:63:9-65:52
 	android:screenOrientation
 		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:65:13-49
-	android:windowSoftInputMode
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:66:13-67
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:64:13-78
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:64:13-72
+activity#com.hababk.userapp.activity.AddEditAddressActivity
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:66:9-69:70
+	android:screenOrientation
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:68:13-49
+	android:windowSoftInputMode
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:69:13-67
+	android:name
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:67:13-78
 activity#com.hababk.userapp.activity.PostReviewActivity
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:67:9-71:70
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:70:9-74:70
 	android:screenOrientation
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:70:13-49
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:73:13-49
 	android:label
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:69:13-47
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:72:13-47
 	android:windowSoftInputMode
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:71:13-67
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:74:13-67
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:68:13-74
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:71:13-74
 service#com.hababk.userapp.service.MyFirebaseMessagingService
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:73:9-77:19
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:76:9-80:19
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:73:18-86
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:76:18-86
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:74:13-76:29
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:77:13-79:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:75:17-78
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:78:17-78
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:75:25-75
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:78:25-75
 service#com.hababk.userapp.service.MyFirebaseInstanceIDService
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:78:9-82:19
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:81:9-85:19
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:78:18-87
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:81:18-87
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:79:13-81:29
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:82:13-84:29
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:80:17-80
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:83:17-80
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:80:25-77
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:83:25-77
 activity#com.hababk.userapp.checkout.OrderPlacedActivity
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:84:9-87:57
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:87:9-90:57
 	android:screenOrientation
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:86:13-49
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:89:13-49
 	android:theme
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:87:13-54
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:90:13-54
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:85:13-75
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:88:13-75
 activity#com.hababk.userapp.activity.BuyPromtActivity
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:89:9-92:57
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:92:9-95:57
 	android:screenOrientation
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:91:13-49
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:94:13-49
 	android:theme
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:92:13-54
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:95:13-54
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:90:13-72
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:93:13-72
 meta-data#io.fabric.ApiKey
-ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:94:9-96:72
+ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:97:9-99:72
 	android:value
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:96:13-69
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:99:13-69
 	android:name
-		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:95:13-44
+		ADDED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml:98:13-44
 uses-sdk
 INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ppain/AndroidProjects/cookfu/user/app/src/main/AndroidManifest.xml

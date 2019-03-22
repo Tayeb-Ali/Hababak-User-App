@@ -1,4 +1,4 @@
-#Tue Mar 19 23:54:11 EAT 2019
+#Fri Mar 22 00:14:46 EAT 2019
 base.0=/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/transforms/dexMerger/debug/2
 path.0=classes.dex
 renamed.0=classes.dex

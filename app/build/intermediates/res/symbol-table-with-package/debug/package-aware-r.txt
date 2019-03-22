@@ -910,6 +910,7 @@ drawable ic_local_shipping_white_24dp
 drawable ic_minus_primary_24dp
 drawable ic_person_pin_white_24dp
 drawable ic_phone_white_24dp
+drawable ic_place_36dp
 drawable ic_plus_white_24dp
 drawable ic_restaurant_menu_white_24dp
 drawable ic_search_gray_24dp
@@ -1330,6 +1331,7 @@ id storeAddress
 id subTitle
 id subTotal
 id submenuarrow
+id submit
 id submitAddress
 id submitSupport
 id submit_area
@@ -1432,6 +1434,7 @@ layout activity_cart
 layout activity_checkout
 layout activity_food_detail
 layout activity_main
+layout activity_maps
 layout activity_order_detail
 layout activity_order_placed
 layout activity_post_review

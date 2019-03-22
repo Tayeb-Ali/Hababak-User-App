@@ -304,6 +304,10 @@
         "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/play-services-places-16.0.0.aar/df281a1ee3a16ccf072b3d07a45352a0/res/drawable-mdpi-v4/powered_by_google_light.png"
     },
     {
+        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_place_36dp.png.flat",
+        "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/drawable-xxhdpi/ic_place_36dp.png"
+    },
+    {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
         "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b6ee63208f8c68e08a89657c40564218/res/drawable/abc_vector_test.xml"
     },
@@ -636,12 +640,12 @@
         "source": "/home/ppain/AndroidProjects/cookfu/user/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_local_shipping_white_24dp.xml"
     },
     {
-        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/menu_menu_rest_detail.xml.flat",
-        "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/menu/menu_rest_detail.xml"
-    },
-    {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/anim_bottom_up.xml.flat",
         "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/anim/bottom_up.xml"
+    },
+    {
+        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/menu_menu_rest_detail.xml.flat",
+        "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/menu/menu_rest_detail.xml"
     },
     {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_gps_fixed_black_24dp.png.flat",
@@ -1036,12 +1040,12 @@
         "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f9277ff14152e3a47826f8c1d542746d/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable_round_accent_light.xml.flat",
         "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/drawable/round_accent_light.xml"
+    },
+    {
+        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f9277ff14152e3a47826f8c1d542746d/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_email_white_24dp.png.flat",
@@ -1252,12 +1256,20 @@
         "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b6ee63208f8c68e08a89657c40564218/res/drawable/abc_dialog_material_background.xml"
     },
     {
+        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_place_36dp.png.flat",
+        "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/drawable-xxxhdpi/ic_place_36dp.png"
+    },
+    {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/layout_activity_checkout.xml.flat",
         "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/layout/activity_checkout.xml"
     },
     {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f9277ff14152e3a47826f8c1d542746d/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_place_36dp.png.flat",
+        "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/drawable-xhdpi/ic_place_36dp.png"
     },
     {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_keyboard_arrow_down_accent_24dp.png.flat",
@@ -1446,6 +1458,10 @@
     {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b6ee63208f8c68e08a89657c40564218/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/layout_activity_maps.xml.flat",
+        "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/layout/activity_maps.xml"
     },
     {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_directions_bike_white_24dp.png.flat",
@@ -2540,6 +2556,10 @@
         "source": "/home/ppain/AndroidProjects/cookfu/user/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_settings_restore_black_24dp.png"
     },
     {
+        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_place_36dp.png.flat",
+        "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/drawable-mdpi/ic_place_36dp.png"
+    },
+    {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable_bg_round_cart_notification.xml.flat",
         "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/drawable/bg_round_cart_notification.xml"
     },
@@ -2750,6 +2770,10 @@
     {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "/home/ppain/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f9277ff14152e3a47826f8c1d542746d/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_place_36dp.png.flat",
+        "source": "/home/ppain/AndroidProjects/cookfu/user/app/src/main/res/drawable-hdpi/ic_place_36dp.png"
     },
     {
         "merged": "/home/ppain/AndroidProjects/cookfu/user/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",

@@ -99,13 +99,16 @@ public abstract class BaseLocationActivity extends AppCompatActivity {
     }
 
     public void pickPlace() {
-        try {
-            startActivityForResult(new PlacePicker.IntentBuilder().build(this), PLACE_PICKER_REQUEST);
-        } catch (GooglePlayServicesRepairableException e) {
-            e.printStackTrace();
-        } catch (GooglePlayServicesNotAvailableException e) {
-            e.printStackTrace();
-        }
+//        try {
+//            startActivityForResult(new PlacePicker.IntentBuilder().build(this), PLACE_PICKER_REQUEST);
+//        } catch (GooglePlayServicesRepairableException e) {
+//            e.printStackTrace();
+//        } catch (GooglePlayServicesNotAvailableException e) {
+//            e.printStackTrace();
+//        }
+
+        Intent intent = new Intent(BaseLocationActivity.this, MapsActivity.class);
+        startActivityForResult(intent, PLACE_PICKER_REQUEST);
     }
 
     protected abstract void startedLocationFetching();
@@ -171,8 +174,12 @@ public abstract class BaseLocationActivity extends AppCompatActivity {
         if (resultCode == AppCompatActivity.RESULT_OK) {
             switch (requestCode) {
                 case PLACE_PICKER_REQUEST:
-                    Place place = PlacePicker.getPlace(this, data);
-                    getLocationAddress(place.getLatLng().latitude, place.getLatLng().longitude);
+//                    Place place = PlacePicker.getPlace(this, data);
+                    Double result_latitude = data.getDoubleExtra("latitude", 0.0);
+                    Double result_longitude = data.getDoubleExtra("longitude", 0.0);
+//                    String result_address = data.getStringExtra("address");
+
+                    getLocationAddress(result_latitude, result_longitude);
                     break;
             }
         }

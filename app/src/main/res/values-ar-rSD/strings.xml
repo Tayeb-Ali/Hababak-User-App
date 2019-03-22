@@ -40,7 +40,7 @@
     <string name="nav_support"> الدعم </string>
     <string name="nav_rate"> قيمنا </string>
     <string name="nav_loout"> خروج </string>
-    <string name="title">العنوان</string>
+    <string name="title">وصف العنوان - معْلم بارز - شارع - محل</string>
     <string name="address">العنوان</string>
     <string name="add_address">إضافة عنوان</string>
     <string name="have_coupon_code">لديك كود الخصم ؟</string>
@@ -89,7 +89,7 @@
     <string name="sign_up_now">أفتح حساب الأن</string>
     <string name="forgot_password">نسية كلمة السر ؟</string>
     <string name="avg_delivery">توصيل</string>
-    <string name="add_via_map">اضافة بواسطة الخريظة</string>
+    <string name="add_via_map">حدد موقعك علي الخريظة*</string>
     <string name="yes">نعم</string>
     <string name="no">لا</string>
     <string name="no_item">لا توجد عناصر في الوقت الحالي</string>
@@ -121,6 +121,5 @@
     <string name="service_charge">تكلفة الخدمة: </string>
     <string name="delivery_charge">تكلفة التوصيل: </string>
     <string name="payable_amount"> المبلغ المستحق: </string>
-
-
+    <string name="submit">Submit</string>
 </resources>

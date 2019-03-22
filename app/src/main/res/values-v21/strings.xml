@@ -6,7 +6,7 @@
     <string name="refine_reset_title">تهئية</string>
     <string name="label_cart">السلة</string>
     <string name="date">10\nMay</string>
-    <string name="sample_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</string>
+    <string name="sample_text">lo</string>
     <string name="cod_message">كن مستعد, تم تسليم طلبك للسائق و هو في الطريق</string>
     <string name="open">فتح</string>
     <string name="close">اغلاق</string>
@@ -40,12 +40,12 @@
     <string name="nav_support"> الدعم </string>
     <string name="nav_rate"> قيمنا </string>
     <string name="nav_loout"> خروج </string>
-    <string name="title">العنوان</string>
+    <string name="title">وصف العنوان - معْلم بارز - شارع - محل</string>
     <string name="address">العنوان</string>
     <string name="add_address">إضافة عنوان</string>
     <string name="have_coupon_code">لديك كود الخصم ؟</string>
     <string name="sub_total">المجموع</string>
-    <string name="service_fee">رسوم الخدمة (4%)</string>
+    <string name="service_fee">رسوم الخدمة </string>
     <string name="delivery_charges">رسوم التوصيل</string>
     <string name="have_promocode">احصل على الرمز الترويجي ؟</string>
     <string name="checkout_now">اتمام الشراء</string>
@@ -89,7 +89,7 @@
     <string name="sign_up_now">أفتح حساب الأن</string>
     <string name="forgot_password">نسية كلمة السر ؟</string>
     <string name="avg_delivery">توصيل</string>
-    <string name="add_via_map">اضافة بواسطة الخريظة</string>
+    <string name="add_via_map">حدد موقعك علي الخريظة*</string>
     <string name="yes">نعم</string>
     <string name="no">لا</string>
     <string name="no_item">لا توجد عناصر في الوقت الحالي</string>
@@ -103,24 +103,22 @@
     <string name="no_items_found_at_the_moment">لا توجد عناصر في هذا الوفت</string>
     <string name="swipe_down_to_retry">( اسحب للاسفل للمحاولة مرة اخرى. )</string>
     <string name="name_app">حبابك</string>
-    <string name="location_services">Location Services Needed</string>
-    <string name="enable_gps">Enable GPS for higher accuracy</string>
+    <string name="location_services">خدمات تحديد المواقع مطلوبة</string>
+    <string name="enable_gps">فعل الـGPS من اجل وصول افضل</string>
     <string name="ok">تم</string>
     <string name="use_location">هذا التطبيق يستخدم خدمة تحديد المكان, الرجاء تفعيل هذه الخدمة</string>
-    <string name="no_reviews">No reviews found</string>
-    <string name="items_in_cart">Items in cart</string>
-    <string name="sudan">Sudan</string>
-    <string name="blaad_alhramen">Blaad Alhramen</string>
-    <string name="valid_password">Please enter valid password, Twice.</string>
-    <string name="valid_password_char">Provide at least 6 character password</string>
-    <string name="confirm_order">Confirm Order</string>
-    <string name="confirm_pay"><![CDATA[Confirm & Pay]]></string>
-    <string name="select_address">Select Address</string>
-    <string name="order_details">Order details</string>
-    <string name="subtotal">Subtotal:</string>
-    <string name="service_charge">Service charge:</string>
-    <string name="delivery_charge">Delivery charge:</string>
-    <string name="payable_amount">Payable amount</string>
-
-
+    <string name="no_reviews">لا توجد مراجعات</string>
+    <string name="items_in_cart">المشتريات المختارة</string>
+    <string name="sudan">السودان</string>
+    <string name="blaad_alhramen">ارض الحرمين</string>
+    <string name="valid_password">الرجاء ادخال كلمة مرور , مرتين</string>
+    <string name="valid_password_char">كلمة المرور لا تقل عن 6 احرف او ارقام</string>
+    <string name="confirm_order">تاكيد الطلب</string>
+    <string name="confirm_pay">تاكيد الدفع</string>
+    <string name="select_address">اختيار العنوان</string>
+    <string name="order_details">تفاصيل الطلب</string>
+    <string name="subtotal">المجموع: </string>
+    <string name="service_charge">تكلفة الخدمة: </string>
+    <string name="delivery_charge">تكلفة التوصيل: </string>
+    <string name="payable_amount"> المبلغ المستحق: </string>
 </resources>

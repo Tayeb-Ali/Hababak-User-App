@@ -72,6 +72,9 @@
             android:name="com.hababk.userapp.rest_detail.RestaurantDetailActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:name="com.hababk.userapp.activity.MapsActivity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.hababk.userapp.activity.FoodDetailActivity"
             android:screenOrientation="portrait" />
         <activity
