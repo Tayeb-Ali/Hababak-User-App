@@ -1178,6 +1178,7 @@ id list_item
 id locationContainer
 id mainFrame
 id map
+id mapfocus
 id masked
 id maxText
 id media_actions
@@ -1518,6 +1519,8 @@ menu menu_cart
 menu menu_home
 menu menu_refine
 menu menu_rest_detail
+mipmap ic_gps_fixed_white
+mipmap ic_gps_fixed_white_round
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
@@ -1702,6 +1705,7 @@ string splash_message
 string status
 string status_bar_notification_info_overflow
 string sub_total
+string submit
 string subtotal
 string sudan
 string swipe_down_to_retry

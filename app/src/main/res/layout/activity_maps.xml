@@ -12,7 +12,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".activity.MapsActivity" />
-    <!--tools:context="boommba.apps.prototype.draggablemapviewandroid.MapsActivity" />-->
 
     <ImageView
         android:id="@+id/mapfocus"

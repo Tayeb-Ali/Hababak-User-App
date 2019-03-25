@@ -143,21 +143,21 @@ public final class R {
         public static final int light = 0x7f0a00bd;
         public static final int line1 = 0x7f0a00be;
         public static final int line3 = 0x7f0a00bf;
-        public static final int media_actions = 0x7f0a00c7;
-        public static final int none = 0x7f0a00e0;
-        public static final int normal = 0x7f0a00e1;
-        public static final int notification_background = 0x7f0a00e2;
-        public static final int notification_main_column = 0x7f0a00e4;
-        public static final int notification_main_column_container = 0x7f0a00e5;
-        public static final int right_icon = 0x7f0a0122;
-        public static final int right_side = 0x7f0a0123;
-        public static final int standard = 0x7f0a0152;
-        public static final int status_bar_latest_event_content = 0x7f0a0159;
-        public static final int text = 0x7f0a016e;
-        public static final int text2 = 0x7f0a016f;
-        public static final int time = 0x7f0a0175;
-        public static final int title = 0x7f0a0177;
-        public static final int wide = 0x7f0a0196;
+        public static final int media_actions = 0x7f0a00c8;
+        public static final int none = 0x7f0a00e1;
+        public static final int normal = 0x7f0a00e2;
+        public static final int notification_background = 0x7f0a00e3;
+        public static final int notification_main_column = 0x7f0a00e5;
+        public static final int notification_main_column_container = 0x7f0a00e6;
+        public static final int right_icon = 0x7f0a0123;
+        public static final int right_side = 0x7f0a0124;
+        public static final int standard = 0x7f0a0153;
+        public static final int status_bar_latest_event_content = 0x7f0a015a;
+        public static final int text = 0x7f0a016f;
+        public static final int text2 = 0x7f0a0170;
+        public static final int time = 0x7f0a0176;
+        public static final int title = 0x7f0a0178;
+        public static final int wide = 0x7f0a0197;
     }
     public static final class integer {
         private integer() {}
