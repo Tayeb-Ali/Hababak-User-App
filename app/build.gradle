@@ -73,7 +73,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:17.3.4'
     implementation 'com.google.firebase:firebase-database:16.0.5'
     implementation 'com.squareup.retrofit2:retrofit:2.4.0'
-    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.7.1'
     implementation 'io.apptik.widget:multislider:1.3'
     implementation 'com.iceteck.silicompressorr:silicompressor:2.1'
     implementation 'com.kbeanie:multipicker:1.5@aar'
